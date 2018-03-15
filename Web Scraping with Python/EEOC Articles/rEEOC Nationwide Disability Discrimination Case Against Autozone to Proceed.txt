@@ -1,0 +1,29 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	11-3-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Nationwide Disability Discrimination Case Against Autozone to Proceed</h1>
+</div>
+<div align="left"><p style="text-align: center"><strong><em>Court Rejects Auto Parts Retailer's Request to Second-Guess EEOC Investigation</em></strong></p>
+<p>CHICAGO - A federal district court has denied a request by auto parts retailer AutoZone to limit the scope of a nationwide disability discrimination case brought by the U.S. Equal Employment Opportunity Commission (EEOC), the agency announced
+today.</p>
+<p>The district court rejected the company's argument that EEOC did not conduct an adequate, "nationwide" investigation prior to filing suit.  The company requested that the suit be limited to just three of the company's many retail stores as a
+result.  According to its website, AutoZone operates several thousand stores in 48 states and Puerto Rico.</p>
+<p>"[T]he Court may not inquire into the sufficiency of the EEOC's pre-suit investigation in order to 'limit' the scope of the litigation," the court stated in its order, which was written by U.S. District Judge Robert M. Dow, Jr.  The order
+also cited the recent decision in <em>Mach Mining, LLC v. EEOC</em>, in which the Supreme Court stated that courts should not impose additional procedural requirements on such litigation beyond those established by Congress.  The order
+explained, "this Court would be imposing extra procedural requirements if it required the EEOC to offer additional proof that 'its investigation was ... conducted on a nationwide basis.'"</p>
+<p>EEOC <a href="http://www.eeoc.gov/eeoc/newsroom/release/5-9-14a.cfm">filed suit</a> on May 9, 2014, alleging that from 2009 until at least 2011, the company assessed employees attendance "points" for absences, without permitting any general
+exception for disability-related absences.  As a result, the complaint alleges, qualified employees with disabilities with even modest numbers of disability-related absences were fired, in violation of Title I of the Americans with Disabilities
+Act (ADA).  The ADA prohibits disability discrimination in employment, which includes failure to provide reasonable accommodations to qualified individuals with disabilities.  The case (<em>EEOC v. AutoZone, Inc. et al.</em>, Civil Action
+No. 14-cv- 3855) was filed in U.S. District Court for the Northern District of Illinois, Eastern Division.</p>
+<p>"This case alleges a serious violation of the law and should be decided on the merits," said John Hendrickson, regional attorney for EEOC's Chicago District.  "The Supreme Court's recent decision in <em>Mach Mining</em> should put to rest
+efforts to deny employees their day in court based on unfounded arguments about administrative procedure."</p>
+<p>EEOC's Chicago District Office is responsible for processing discrimination charges, administrative enforcement, and the conduct of agency litigation in Illinois, Minnesota, Wisconsin, Iowa, North Dakota and South Dakota, with Area Offices in
+Milwaukee and Minneapolis.</p>
+<p>EEOC enforces federal laws prohibiting employment discrimination.  Further information about EEOC is available on its website at <a href="http://www.eeoc.gov/">www.eeoc.gov</a>.</p></div>
+</div>

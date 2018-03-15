@@ -1,0 +1,20 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	10-9-09</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Sues Data Transformation Corp. For Disability Discrimination</h1>
+</div>
+<div align="left"><p align="center"><strong><em>Agency Charges That IT Services Provider Fired Employee With Cancer and AIDS Rather Than Provide One More Week of Leave Without Pay</em></strong></p>
+<p>BALTIMORE – A Silver Spring, Md., federal contractor violated federal law when it fired a person with cancer and AIDS because of his illnesses, the U.S. Equal Employment Opportunity Commission (EEOC) charged in a lawsuit it announced today.</p>
+<p>In its suit, the EEOC said that in 2008 Data Transformation Corporation discriminated against Duane Wesley while he was medical leave for cancer and AIDS. According to the EEOC, after Wesley informed the defendant that he had a life-threatening illness, the company demanded that he call every morning of every work day that he was on medical leave to tell the company that he would not be capable of coming to work that day. When Wesley protested, the company told him that he would be fired if he did not comply. Wesley dutifully called the company each morning for several months. One week before Wesley was scheduled to return, the defendant fired him.</p>
+<p>The Americans With Disabilities Act (ADA) makes it unlawful to fail to reasonably accommodate persons with a disability, and makes it unlawful to discriminate against a qualified individual because of a disability. The EEOC filed suit (Civil Action No. 8:09-cv-2559 RWT ) in U.S. District Court for the District of Maryland, Southern District, after first attempting to reach a voluntary settlement. The complaint seeks monetary and injunctive relief, including back wages, compensatory and punitive damages and changes in employment policies to provide equal employment opportunities for qualified individuals with disabilities.</p>
+<p>“Besides violating common decency, this employer violated federal law by treating an employee with serious illnesses – but qualified disabilities which could and should have been accommodated – in such a cold and cruel fashion,” said EEOC Acting Regional Attorney Debra M. Lawrence.</p>
+<p>According to its web site (<a href="http://www.dtcss.com/">www.dtcss.com</a>) Data Transformation Corporation provides IT services to a range of federal and commercial clients, including IBM, NASA, and the Department of Agriculture.</p>
+<p>In fiscal year 2008, disability-based charges rose to a record 19,543, up 10.2 percent from the prior year and the highest level since 1995.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Further information about the Commission is available on its web site at <a href="http://www.eeoc.gov/">www.eeoc.gov</a>.</p></div>
+</div>

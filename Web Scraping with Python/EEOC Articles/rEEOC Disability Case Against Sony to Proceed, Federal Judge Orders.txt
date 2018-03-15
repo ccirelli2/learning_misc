@@ -1,0 +1,31 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	9-8-14</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Disability Case Against Sony to Proceed, Federal Judge Orders</h1>
+</div>
+<div align="left"><p style="text-align: center"><strong><em>Judge Also Refuses to Admit Evidence Sony Collected in Violation of HIPAA</em></strong></p>
+<p>CHICAGO - U.S. District Judge James B. Zagel of the Northern District of Illinois has issued an order denying a motion by Sony for a pre-trial judgment in its favor in a discrimination case brought by the U.S. Equal Employment Opportunity
+Commission under the Americans with Disabilities Act (ADA), the agency announced today. (<em>EEOC v. Staffmark Investment LLC and Sony Electronics, Inc</em>, 12-CV-9628, N.D. Ill.). In its lawsuit filed Dec. 4, 2012, the EEOC charged that Sony
+violated the ADA when it terminated Dorothy Shanks, a temporary worker with a prosthetic leg who was assigned to inspect Sony televisions.</p>
+<p>In the lawsuit, the EEOC is contending that Shanks had been hired by Staffmark Investment LLC, a staffing agency, to work at a logistics facility in Romeoville, Ill., to inspect Sony televisions on a temporary basis. But on Shanks's second day on
+the job, the EEOC said, a Staffmark employee removed Shanks from the worksite. Evidence uncovered during an administrative investigation managed by EEOC District Director John Rowe indicated that it was Sony which made the original request to have
+Shanks removed and that Staffmark executed Sony's request. Thereafter, the EEOC sued both companies for violating the ADA. Staffmark settled with the EEOC for $100,000 in June 2013, but the case against Sony has been ongoing.</p>
+<p>On May 23, 2014, Sony filed a motion for summary judgment alleging that it was entitled to immediate judgment in its favor without trial because, it contended, it did not know Shanks was disabled or walked with an impairment and also that Shanks
+was not qualified to perform her job duties. Thus, Sony argued, there were no disputed facts that would entitle Shanks to a jury trial or damages. The EEOC argued, however, that Sony's employees knew Shanks had a walking impairment and discriminated
+against her on that basis. The court's decision, issued Sept. 4, 2014, held that a reasonable jury could conclude that Sony regarded Shanks as disabled and discriminated against her on that basis.</p>
+<p>In addition to denying Sony's motion, the court also struck from the record a written declaration Sony obtained from Shanks's prosthetist, holding that Sony obtained it in violation of the Health Insurance Portability and Accountability Act
+(HIPAA). Sony obtained the declaration after it had already deposed the prosthetist, and without first securing Shanks's permission or an order of the court granting Sony permission to conduct an <em>ex parte</em> interview with the prosthetist. The
+court struck the declaration from the record because Sony lacked authority to conduct the interview that was the basis for the declaration under HIPAA.</p>
+<p>"From the very beginning, a cardinal principal under the ADA is that an employer cannot escape liability for discrimination by getting another to do its bidding, as EEOC has been contending Sony did in this case," said EEOC Regional Attorney John
+Hendrickson of the agency's Chicago District Office. "In our view, Judge Zagel's decision reaffirms that fundamental rule and reserves for the jury the question of whether Shanks' termination amounted to employment discrimination for which Sony
+should be held liable. That's a question which we've always wanted to put in front of a jury, so we're of course pleased that day is coming soon."</p>
+<p> The EEOC's litigation team is led by Supervisory Trial Attorney Diane I. Smason and trial attorneys Ann Henry and Brad Fiorito of the Chicago District Office. </p>
+<p>EEOC is responsible for enforcing federal laws prohibiting employment discrimination. The EEOC's Chicago District Office is responsible for processing discrimination charges, administrative enforcement, and the conduct of agency litigation in
+Illinois, Wisconsin, Minnesota, Iowa and North and South Dakota, with Area Offices in Milwaukee and Minneapolis.  Further information about the EEOC is available on its website at <a href="http://www.eeoc.gov">www.eeoc.gov</a>.</p></div>
+</div>

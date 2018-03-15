@@ -1,0 +1,31 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	4-23-14</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Federal Appeals Court Rules for EEOC in its Disability Discrimination Case Against Ford Motor</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Agency Charged Automaker Denied Employee the Chance to Telework; Sixth Circuit Agrees Case Should Go Forward</em></strong></p>
+<p>WASHINGTON -- The majority of a panel of judges on the U.S. Court of Appeals for the Sixth Circuit decided on April 22 that the U.S. Equal Employment Opportunity Commission (EEOC) had created issues sufficient for trial in its disability
+discrimination lawsuit against the Ford Motor Company. The EEOC had charged that Ford violated the Americans with Disabilities Act (ADA) by denying a former employee the opportunity to telework and by firing her after she filed an EEOC charge.</p>
+<p>EEOC General Counsel David Lopez hailed the decision as the "latest in a series of cases ensuring persons with disabilities are allowed the opportunity to use their talents fully. The decision reaffirms the employer's important obligation to
+provide a reasonable accommodation unless it can show it results in undue hardship."</p>
+<p>The EEOC sued Ford Motor in 2011, charging that the company's denial of Jane Harris's request to work from home up to four days a week as an accommodation for her irritable bowel syndrome violated the ADA, and that Ford had then retaliated
+against her by firing her after she filed an EEOC charge. Ford's telecommuting policy authorized employees to work up to four days a week from a telecommuting site. Harris was a resale steel buyer whose job primarily required telephone and computer
+contact with coworkers and suppliers.</p>
+<p>The district court granted summary judgment for Ford Motor, holding that attendance at the job site was an essential function of Harris's job, and that Harris's disability-related absences meant that she was not a "qualified" individual under the
+ADA. The lower court also ruled that Harris's telework request was not a reasonable accommodation for her job. The district court also said the EEOC could not prove Harris's termination was retaliatory because it was based on attendance and
+performance issues that pre-dated her charge filing.</p>
+<p>The Sixth Circuit panel majority reversed the lower court on both counts. <em>(EEOC v. Ford Motor Co. (6th Cir. No. 12-2484))</em>. The majority noted that "the law must respond to the advance of technology in the employment context . . . and
+recognize that the 'workplace' is anywhere that an employee can perform her job duties." The majority held that the "highly fact-specific" question was thus whether presence at the Ford facilities was truly essential, and that a jury should decide
+that issue. The panel majority also held that the EEOC had created a question for the jury about why Ford Motor terminated Harris, and whether it was in retaliation for filing a charge or because of genuine performance problems.</p>
+<p>EEOC Assistant General Counsel Carolyn Wheeler, who supervised attorney Gail Coleman's preparation of the agency's briefs and argument on appeal, said she was "pleased with the panel majority's careful explication of the ADA's statutory
+requirements, and its recognition that workplace realities have evolved and made teleworking a viable option for many persons whose disabilities can be better managed at home than during long commutes and long hours in the 'brick-and-mortar'
+workplace."</p>
+<p>This case was developed and litigated in district court by Detroit trial attorney Nedra Campbell, under the direction of Laurie Young, regional attorney for the EEOC's Indianapolis District Office.</p>
+<p>The EEOC is responsible for enforcing federal laws against employment discrimination. Further information is available at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

@@ -1,0 +1,21 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	10-1-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Launches FOIAXpress to New Automated Program for FOIA Requests</h1>
+</div>
+<div align="left"><p style="text-align: center"><strong><em>Program Will Allow Users to Electronically File, Appeal and Monitor Their Freedom of Information Act Requests</em></strong></p>
+<p>WASHINGTON -- The U.S. Equal Employment Opportunity Commission (EEOC) announced the launch of FOIAXpress software to process and track Freedom of Information Act (FOIA) requests and appeals today. FOIAXpress replaces the agency's in-house FOIA
+Tracking System (FTS) which has been in use since August 2009. Requesters can access FOIAXpress on line at <a href="https://publicportalfoiapal.eeoc.gov/">https://publicportalfoiapal.eeoc.gov/</a></p>
+<p>As part of EEOC's commitment to transparency, public participation and accountability, FOIAXpress will speed up the processing of FOIA requests by allowing EEOC staff and FOIA requesters the ability to electronically exchange pertinent documents.
+FOIAXpress requesters will also be able to monitor their requests and appeals online via its online Public Access Link known as "PAL. EEOC will continue to accept FOIA responses and appeals via U.S. Mail, e-mail, or facsimile. Requests and appeals
+received in these formats will be entered into FOIAXpress for electronic processing and requester monitoring.</p>
+<p>An additional feature of the new software is the ability to closely track EEOC FOIA data, and provide in-depth statistics on the agency's FOIA administration for reports to the Attorney General and other special reports</p>
+<p>The Freedom of Information Act (FOIA) is a law that gives individuals the right to access information from the federal government. EEOC receives approximately 18,000 FOIA requests annually.</p>
+<p>EEOC is responsible for enforcing federal laws against employment discrimination. Further information is available at <a href="http://www.eeoc.gov">www.eeoc.gov</a>.</p></div>
+</div>

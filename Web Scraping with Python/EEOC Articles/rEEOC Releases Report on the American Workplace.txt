@@ -1,0 +1,37 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	8-3-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Releases Report on the American Workplace</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>50th Anniversary Report Illustrates Progress Made by </em></strong><strong style="font-size: 12.16px; line-height: 1.6em;"><em>Women and Minorities, Challenges That Remain</em></strong></p>
+<p>WASHINGTON - The U.S. Equal Employment Opportunity Commission (EEOC), as part of the year-long celebration of its 50th anniversary, today released <a href="http://www.eeoc.gov/eeoc/statistics/reports/american_experiences/"><em>American
+Experiences versus American Expectations</em></a>. The report illustrates the significant changes to the demographics of the workforce since EEOC opened its doors in 1965 as well as the continuing challenges to equal opportunity in employment.
+ </p>
+<p>The new report, an update to EEOC's groundbreaking 1977 report <a href="http://www.eeoc.gov/eeoc/statistics/reports/black_experiences/"><em>Black Experiences Versus Black Expectations</em></a>, examines changes in participation in nine
+job categories for African-Americans, Hispanics, Asian-Americans, American Indians/Alaskan Natives, and women between 1966, the first year for which EEOC collected data, and 2013, the most recent year for which data is available. The report draws on
+data from EEOC's EEO-1 survey.</p>
+<p>"Despite notable progress in diversity and inclusion in the workplace over the past half century, this report highlights continued job segregation by race and gender, with women and people of color disproportionately occupying lower paying
+positions," said EEOC Chair Jenny R. Yang.</p>
+<p>Beginning in 1966, all employers with 100 or more employees (lower thresholds apply to federal contractors) have been required by law to file the Employer Information Report EEO-1 with the EEOC. In FY 2013, approximately 70,000 employers filed
+reports indicating the composition of their workforce by sex, race/ethnicity, and major job categories. Observations from the <em>American Experiences versus American Expectations</em> report include the following:</p>
+<ul>
+<li>In 1966, African-Americans, Hispanics, and Asian-Americans each made up less than 1 percent of senior-level positions. Since then, the participation rates for all three groups have increased by five to seven times.</li>
+<li>The participation rate of women in the Professionals category has skyrocketed from roughly 14 percent in 1966 to more than 53 percent in 2013.</li>
+<li>Women and minorities remain concentrated, or segregated, in lower paying positions. For example, in 2013: 
+
+<ul>
+<li>Hispanics composed 20.5 percent of Service Workers and 29.2 percent of Laborers, yet they were only 5.7 percent of Professionals and 7.4 percent of Officials and Managers.</li>
+<li>African-Americans composed 23.3 percent of Service Workers and 18.7 percent of Laborers, yet they were only 7.6 percent of Professionals and 6.8 percent of Officials and Managers.</li>
+</ul>
+</li>
+</ul>
+<p>In conjunction with <em>American Experiences versus American Expectations</em>, EEOC has produced a fact sheet highlighting key data points on each demographic group of workers covered in the report. These fact sheets-which include EEO-1 data,
+EEOC charge and litigation information, and agency outreach activities-are available with the report at <a href="http://www.eeoc.gov/eeoc/statistics/reports/">www.eeoc.gov/eeoc/statistics/reports/</a>.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Further information about EEOC is available at <a href="http://www.eeoc.gov/">www.eeoc.gov</a></p></div>
+</div>

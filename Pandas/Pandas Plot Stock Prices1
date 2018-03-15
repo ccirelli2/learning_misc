@@ -1,0 +1,58 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul 12 06:36:16 2017
+
+@author: Chris.Cirelli
+"""
+#   Instructions
+#https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#yahoo-finance
+
+#   Intro Stock Market Data Analysis with Pandas
+#https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/
+
+import pandas as pd
+import pandas_datareader.data as web
+import datetime
+import matplotlib.pyplot as plt
+
+start = datetime.datetime(2015, 7, 10) #it would be amazing if you could color code outliers by year. 
+end = datetime.datetime(2017, 7, 10) #year, monty, day
+
+AYI = web.DataReader("AYI", 'google', start, end)
+
+Day1 = AYI['Close']
+Day0 = Day1.shift(-1) #   Shift an entire column up one in a dataframe. 
+
+
+List1 = list(zip(Day1, Day0))
+Df = pd.DataFrame(List1) #still need to add the index. 
+Test = (Df[1] - Df[0])/Df[0]  #Double check.  May be reversed. 
+
+
+#   Distribution of daily stock % price change
+#Note that we could use this type of graph to figure out if there is a correlation with outliers over a certain time period and a SCA. 
+Test.plot(kind = 'hist', bins = 100)
+plt.title('Daily %Change Acuity Brands')
+plt.xlabel('Days')
+plt.ylabel('Change (%)')
+plt.figure(figsize = (10,10))
+
+#   Line graphy stock price changes. 
+Test.plot()
+plt.title('Daily %Change Acuity Brands')
+plt.xlabel('Days')
+plt.ylabel('Change (%)')
+plt.figure(figsize = (10,10))
+
+#   Box graph showing the range, median and mean. 
+Test.plot(kind = 'box')
+plt.title('Daily %Change Acuity Brands')
+plt.xlabel('Days')
+plt.ylabel('Change (%)')
+plt.figure(figsize = (10,10))
+
+y = -0.5
+
+for x in Test:
+    if x < y:
+        print(x)

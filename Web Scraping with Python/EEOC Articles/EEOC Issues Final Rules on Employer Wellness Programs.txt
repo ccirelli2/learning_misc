@@ -1,0 +1,43 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	5-16-16</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues Final Rules on Employer Wellness Programs</h1>
+</div>
+<div align="left"><p style="text-align: center"><em><strong>Rules Address Incentives; Protect Confidentiality</strong></em></p>
+<p>WASHINGTON, DC--The U.S. Equal Employment Opportunity Commission (EEOC) today issued final rules that describe how Title I of the Americans with Disabilities Act (ADA) and Title II of the Genetic Information Nondiscrimination Act (GINA) apply to
+wellness programs offered by employers that request health information from employees and their spouses. The two rules provide guidance to both employers and employees about how workplace wellness programs can comply with the ADA and GINA consistent
+with provisions governing wellness programs in the Health Insurance Portability and Accountability Act, as amended by the Affordable Care Act (Affordable Care Act).</p>
+<p>The rules permit wellness programs to operate consistent with their stated purpose of improving employee health, while including protections for employees against discrimination.  The rules are available in the Federal Register at <a href="https://www.federalregister.gov/articles/2016/05/17/2016-11558/regulations-under-the-americans-with-disabilities-act">https://www.federalregister.gov/articles/2016/05/17/2016-11558/regulations-under-the-americans-with-disabilities-act</a> and <a href="https://www.federalregister.gov/articles/2016/05/17/2016-11557/genetic-information-nondiscrimination-act">https://www.federalregister.gov/articles/2016/05/17/2016-11557/genetic-information-nondiscrimination-act</a>. EEOC also published
+question-and-answer documents on both rules today, available at <a href="https://www.eeoc.gov/laws/regulations/qanda-ada-wellness-final-rule.cfm">https://www.eeoc.gov/laws/regulations/qanda-ada-wellness-final-rule.cfm</a> and <a href="https://www.eeoc.gov/laws/regulations/qanda-gina-wellness-final-rule.cfm">https://www.eeoc.gov/laws/regulations/qanda-gina-wellness-final-rule.cfm</a>, and two documents for small businesses <a href="https://www.eeoc.gov/laws/regulations/facts-ada-wellness-final-rule.cfm">https://www.eeoc.gov/laws/regulations/facts-ada-wellness-final-rule.cfm</a> and <a href="https://www.eeoc.gov/laws/regulations/facts-gina-wellness-final-rule.cfm">https://www.eeoc.gov/laws/regulations/facts-gina-wellness-final-rule.cfm</a>.</p>
+<p>Many employers offer workplace wellness programs intended to encourage healthier lifestyles or prevent disease. These programs sometimes use medical questionnaires or health risk assessments and biometric screenings to determine an employee's
+health risk factors, such as body weight and cholesterol, blood glucose, and blood pressure levels. Some of these programs offer financial and other incentives for employees to participate or to achieve certain health outcomes.</p>
+<p>The ADA and GINA generally prohibit employers from obtaining and using information about employees' own health conditions or about the health conditions of their family members, including spouses. Both laws, however, allow employers to ask
+health-related questions and conduct medical examinations, such as biometric screenings to determine risk factors, if the employer is providing health or genetic services as part of a voluntary wellness program. Last year, EEOC issued proposed rules
+that addressed whether offering an incentive for employees or their family members to provide health information as part of a wellness program would render the program involuntary.   </p>
+<p>The final ADA rule provides that wellness programs that are part of a group health plan and that ask questions about employees' health or include medical examinations may offer incentives of up to 30 percent of the total cost of self-only
+coverage. The final GINA rule provides that the value of the maximum incentive attributable to a spouse's participation may not exceed 30 percent of the total cost of self-only coverage, the same incentive allowed for the employee. No incentives are
+allowed in exchange for the current or past health status information of employees' children or in exchange for specified genetic information (such as family medical history or the results of genetic tests) of an employee, an employee's spouse, and
+an employee's children. </p>
+<p>The final rules, which will go into effect in 2017, apply to all workplace wellness programs, including those in which employees or their family members may participate without also enrolling in a particular health plan. </p>
+<p>"The EEOC received comments on both rules from a broad array of stakeholders and considered them carefully in developing this final rule," said EEOC Chair Jenny R. Yang. "The Commission worked to harmonize HIPAA's goal of allowing incentives to
+encourage participation in wellness programs with ADA and GINA provisions that require that participation in certain types of wellness programs is voluntary.  These rules make clear that the ADA and GINA provide important safeguards to
+employees to protect against discrimination."</p>
+<p><strong><u>Program Design</u></strong></p>
+<p>Both rules also seek to ensure that wellness programs actually promote good health and are not just used to collect or sell sensitive medical information about employees and family members or to impermissibly shift health insurance costs to
+them.  The ADA and GINA rules require wellness programs to be reasonably designed to promote health and prevent disease.</p>
+<p><strong><u>Protecting Confidentiality</u></strong></p>
+<p> The two rules also make clear that the ADA and GINA provide important protections for safeguarding health information. The ADA and GINA rules state that information from wellness programs may be disclosed to employers only in aggregate
+terms. </p>
+<p>The ADA rule requires that employers give participating employees a notice that tells them what information will be collected as part of the wellness program, with whom it will be shared and for what purpose, the limits on disclosure and the way
+information will be kept confidential. GINA includes statutory notice and consent provisions for health and genetic services provided to employees and their family members. </p>
+<p>Both rules prohibit employers from requiring employees or their family members to agree to the sale, exchange, transfer, or other disclosure of their health information to participate in a wellness program or to receive an incentive. </p>
+<p>The interpretive guidance published along with the final ADA rule and the preamble to the GINA final rule identify some best practices for ensuring confidentiality, such as adopting and communicating clear policies, training employees who handle
+confidential information, encrypting health information, and providing prompt notification of employees and their family members if breaches occur.</p>
+<p>EEOC enforces federal laws prohibiting employment discrimination. Further information about the EEOC is available on its web site at <a href="http://www.eeoc.gov/">www.eeoc.gov</a>.</p></div>
+</div>

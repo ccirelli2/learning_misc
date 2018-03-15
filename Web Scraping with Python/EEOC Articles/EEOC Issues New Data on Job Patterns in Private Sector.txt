@@ -1,0 +1,33 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	2-5-10</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues New Data on Job Patterns in Private Sector</h1>
+</div>
+<div align="left"><div align="center">
+<p><em><strong>Employer Survey Results Posted on Data.gov, Part of President’s Open Government Directive</strong></em><br/>
+</p>
+<p align="left">WASHINGTON – The U.S. Equal Employment Opportunity Commission (EEOC) has posted extensive new data on job patterns in the private sector, as part of the Obama Administration’s Open Government Initiative.  </p>
+</div>
+<p>The EEOC posted 11 new aggregate data sets from the most recent edition of its report Job Patterns for Minorities and Women in Private Industry, commonly known as the EEO-1 survey, on www.Data.gov. The EEO-1 raw data extracts for 2008 may be downloaded at <a href="http://www.data.gov/catalog/raw/category/0/agency/119/filter/2008/type//sort//page/1/count/25" id="http://www.data.gov/catalog/raw/category/0/agency/119/filter/2008/type//sort//page/1/count/25|" onmouseout="" onmouseover="">http://www.data.gov/catalog/raw/category/0/agency/119/filter/2008/type//sort//page/1/count/25</a>.</p>
+<p>The EEOC also posted the data on a new Open Government page, which it launched today.  That page, on the EEOC’s web site at <a href="https://www.eeoc.gov/open/index.cfm" id="CP___PAGEID=72969,index.cfm,134|" onmouseout="" onmouseover="">http://www.eeoc.gov/open/</a>, offers a one-stop location for EEOC statistics and other performance-related materials, and will soon also provide tools for the public to interact with the EEOC about information the agency provides and work it does.  The page will eventually carry the agency’s comprehensive Open Government Plan.</p>
+<p>“Posting the latest aggregate EEO-1 survey results on Data.gov is the first step in what will be a larger EEOC effort to advance the President’s goal of opening up our government and providing greater access to agency information and operations,” said EEOC Acting Chairman Stuart J. Ishimaru.  “We look forward to working with stakeholders as we create and implement our Open Government plan.”</p>
+<p>The most recent data sets contain comprehensive labor force profiles of race, gender and ethnicity divided by various job categories. According to the 2008 EEO-1 survey and historical data:</p>
+<ul>
+<li>Of the approximately 62 million private sector employees nationwide covered by the 2008 survey, about 30 million (48%) were women and 21 million (34%) were minorities;</li>
+<li>The rate of minority employment tripled between 1966 and 2008 from 11% to 34%;</li>
+<li>Among the four minority groups continuously measured, the employment rate for Black or African Americans increased steadily from 8% in 1966 to 14% in 2008;</li>
+<li>Hispanics or Latinos had the fastest growth rate in the private sector, increasing from 2.5% to over 13% between 1966 and 2008.   </li>
+<li>Women’s overall participation rate in the private sector jumped from 31% to 48% between 1966 and 2008.  <br/>
+</li>
+</ul>
+<p>The 2008 EEO-1 data extracts will be of use to the general public, researchers and academia, application and data infrastructure developers, and government agencies. Users may download the voluminous raw data sets for further examination and manipulation in a variety of ways, such as importing the data into spreadsheets, data bases, graphic presentations and statistical software programs.  </p>
+<p>In addition to information on race, gender, ethnicity and job categories, the EEO-1 survey also includes data on the size, location and industry of employer establishments.  Employers with 100 or more employees must file the annual survey, as well as employers with federal government contracts of $50,000 or more and 50 or more employees.  Additional EEO-1 data and information, including user-friendly html tables and historical data, can be found on the EEOC’s web site at <a href="https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/index.cfm" id="CP___PAGEID=3189,index.cfm,39|" style="">http://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/index.cfm</a>.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination.   Further information about the EEOC is available on its web site at www.eeoc.gov.</p>
+<p> </p></div>
+</div>

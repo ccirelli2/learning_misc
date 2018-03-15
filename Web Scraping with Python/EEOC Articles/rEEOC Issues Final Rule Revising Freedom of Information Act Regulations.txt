@@ -1,0 +1,33 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	6-19-13</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues Final Rule Revising Freedom of Information Act Regulations</h1>
+</div>
+<div align="left"><p style="text-align: center;"><em><strong>Changes Affect Certain FOIA Procedures</strong></em></p>
+<div style="float: right; width: 35%; border: 1px solid rgb(187, 187, 187); padding: 0pt 1em 1em; margin: 0pt 1em;">
+<h2 class="center">Related Documents<br/>
+</h2>
+<ul>
+<li><a href="https://www.federalregister.gov/articles/2013/06/19/2013-14489/availability-of-records">Final Rule: Availability of Records (29 CFR Part 1610)</a></li>
+<li><a href="https://www.eeoc.gov/laws/regulations/qanda_finalrule_foia_revisions.cfm" id="CP___PAGEID=175058,qanda_finalrule_foia_revisions.cfm,44|">Questions and Answers on EEOC's Final Rule Implementing Revisions to the Commission's FOIA
+Regulations</a></li>
+</ul>
+</div>
+<p>WASHINGTON - The U.S. Equal Employment Opportunity Commission (EEOC) issued a Final Rule today revising certain provisions of its Freedom of Information Act (FOIA) regulations.  EEOC's revised FOIA regulations, <a href="https://www.federalregister.gov/articles/2013/06/19/2013-14489/availability-of-records" id="https://www.federalregister.gov/articles/2013/06/19/2013-14489/availability-of-records|">29 CFR Part 1610 ("Availability of Records")</a>, incorporate
+provisions of the Openness Promotes Effectiveness in Our National Government Act of 2007 (OPEN Government Act), and the Electronic FOIA Act of 1996 (E-FOIA Act).  The Final Rule also reflects the Commission's transfer of FOIA responsibility
+from its Regional Attorneys to its District Directors.  The rule was published in the Federal Register on June 19, 2013.</p>
+<p>Pursuant to the OPEN Government Act, the Final Rule requires the Commission to observe FOIA response time deadlines even when a FOIA request is received by the wrong office.  Also in accordance with the OPEN Government Act, the Commission
+will issue acknowledgement letters upon receipt of all FOIA requests.  Consistent with EEOC's current practice, the Final Rule provides that EEOC will include in its appeal determinations information about the mediation services provided by the
+Office of Government Information Services.</p>
+<p>As required by the E-FOIA Act, information produced by EEOC pursuant to FOIA will be made available in electronic format.  In addition, the Final Rule creates an internal multi-track FOIA processing procedure as permitted by the E-FOIA
+Act.  The Final Rule also clarifies that FOIA appeals can be filed with EEOC by mail, fax, or electronically.  In addition, to enable EEOC to more efficiently process requests for charge files made after a right-to-sue letter has expired,
+a new provision requires that the requestor include with the FOIA request a stamped copy of the relevant civil action.   Finally, the Final Rule consolidates EEOC's public reading area services in its Headquarters and District Offices.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination.  Further information about the EEOC is available on its public web site at www.eeoc.gov.<br/>
+</p></div>
+</div>

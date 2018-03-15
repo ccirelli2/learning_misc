@@ -1,0 +1,28 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	9-22-16</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Wisconsin Court Rejects Employer’s Argument That Wellness Programs Are Insulated from Disability Law</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Trial to Be Scheduled on Retaliation Claim</em></strong></p>
+<p>MILWAUKEE - A federal court has ruled in favor of the U.S. Equal Employment Opportunity Commission (EEOC) in a disability discrimination case involving wellness programs filed against Orion Energy Systems, the federal agency announced today. The
+court rejected the employer's argument that the insurance safe harbor provision in the Americans with Disabilities Act (ADA) immunizes wellness plans from ADA scrutiny.</p>
+<p>In the Orion lawsuit (<em>EEOC v. Orion Energy Systems, Inc</em>., No. 14-CV-1019 (E.D. WI)), EEOC argued that Orion required Wendy Schobert to submit to medical testing as part of a wellness program or pay 100 percent of the premium for the
+employer-provided health insurance. EEOC contended that this violated the ADA's prohibition against involuntary medical exams. However, Orion contended that its wellness plan was covered by the ADA's so-called "insurance safe harbor," and thereby
+was excused from ADA compliance except if it operated as a subterfuge. Orion also argued that the plan was lawful under the ADA because it was voluntary.</p>
+<p>The district court rejected Orion's safe harbor argument, and held that the plan was subject to ADA review. The court concluded that EEOC's recently issued regulations on the ADA's safe harbor provision were within EEOC's authority, and further
+held that the safe harbor provision did not apply even without regard to the new regulations. However, the court found that the wellness plan was lawful under the ADA because it concluded that the employee's decision whether to participate was
+voluntary under that statute.</p>
+<p>The court also held that there were issues of fact regarding whether Schobert was fired because of her opposition to the wellness plan, and indicated that the case would be set for trial.</p>
+<p>Since the defendant's motion for summary judgment was denied, the next step in the process should be the scheduling of a trial on the retaliation claim.</p>
+<p>"Although we disagree with the court's holding that participation in the wellness plan here was voluntary, we are pleased with the court's solid reasoning that the safe harbor concept does not apply here," said John Hendrickson, the regional
+attorney for EEOC's Chicago District Office. "It establishes that there is no easy out for employers from ADA scrutiny - they must make sure that their plans comply with that law."</p>
+<p>EEOC's Minneapolis Area Office is part of the Chicago District, which is responsible for handling charges of employment discrimination, administrative enforcement and the conduct of agency litigation in Illinois, Wisconsin, Minnesota, Iowa and
+North and South Dakota, with Area Offices in Milwaukee and Minneapolis.</p>
+<p>EEOC is responsible for enforcing federal laws prohibiting employment discrimination. Further information about EEOC is available on its website at <a href="https://www.eeoc.gov" id="https://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

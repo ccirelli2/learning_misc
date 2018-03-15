@@ -1,0 +1,29 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	5-6-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Toma Primeros Pasos Para Sistema Digital De Quejas</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Programa Piloto Digital ACT Permite Interacción en Línea con los Empleadores</em></strong></p>
+<p>WASHINGTON - La Comisión Para la Igualdad de Oportunidades en el Empleo (EEOC) anunció hoy que 11 de sus 53 oficinas comenzarán un programa piloto llamado ACT Digital para transmitir digitalmente documentos entre la EEOC y los empleadores con
+respecto a quejas de discriminación. Este es el primer paso en el cambio por la EEOC hacia un sistema de quejas en línea que facilitará la presentación de documentos, notificaciones y comunicaciones en el sistema de quejas de la EEOC. Este sistema
+aplica a los empleadores públicos y privados, los sindicatos y agencias de empleo.</p>
+<p>La EEOC recibe cerca de 90,000 quejas por año, por lo que hace que su sistema de quejas la interacción más común entre la agencia con el público. La iniciativa ACT Digital de la EEOC tiene como objetivo mejorar el servicio al cliente, reducir la
+carga administrativa del personal y reducir el uso de presentaciones en papel y archivos.</p>
+<p>La primera fase del ACT Digital permite a los empleadores que tienen una queja presentada en contra de ellos comunicarse con la EEOC a través de un portal seguro para descargar la queja, revisar y responder a una invitación a mediar, presentar
+una declaración de su posición, y proporcionar y verificar su información de contacto . El nuevo diseñado sistema de notificación de quejas de la EEOC proporcionará un registro protegido por contraseña en el que el empleador puede acceder al sistema
+con las oficinas piloto. Los empleadores también tendrán la opción de optar fuera del programa piloto y podrán recibir y presentar todos los documentos y comunicaciones en papel.</p>
+<p>La Presidenta de la EEOC Jenny Yang elogió ACT Digital como un primer paso innovador para hacer más eficaz el sistema de quejas de la agencia.</p>
+<p>"La prueba de la EEOC de un sistema de carga digital es un paso importante que beneficiará a la población y a nuestro personal," dijo la Presidenta Yang. "Esto va a mejorar nuestra capacidad de responder al público, utilizará eficientemente
+nuestros recursos y protegerá la seguridad de los documentos en nuestro sistema en línea. Exhortamos a los empleadores a proporcionar sus comentarios y sugerencias francas durante las pruebas para que podamos hacer los ajustes para mejorar el
+sistema."</p>
+<p>El programa piloto comienza el 6 de mayo del 2015, en las siguientes oficinas de la EEOC: Charlotte, Greensboro, Greenville, Norfolk, Raleigh, Richmond y San Francisco. Las oficinas de la EEOC en Denver, Detroit, Indianápolis y Phoenix también
+comenzarán sus programas a finales de mayo del 2015.</p>
+<p>La EEOC hace cumplir las leyes federales que prohíben la discriminación en el empleo. Más información está disponible en <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a> y en su página de Twitter,
+<strong>@EEOCespanol</strong>.</p></div>
+</div>

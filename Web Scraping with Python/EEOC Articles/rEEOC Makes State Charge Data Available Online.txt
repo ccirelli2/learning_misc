@@ -1,0 +1,17 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	5-14-12</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Makes State Charge Data Available Online</h1>
+</div>
+<div align="left"><p align="center"><em><strong>Tables Present Employment Discrimination Statistics in User-Friendly Format</strong></em></p>
+<p>WASHINGTON — The U.S. Equal Employment Opportunity Commission (EEOC) today announces the availability of private sector workplace discrimination charge statistics for each of the nation’s 50 states and U.S. Territories for fiscal years 2009-2011.  These data provide a look at EEOC charge receipts, broken down by the basis of discrimination, as well as the percent of total state and national charges. The state data tables are available online at <a href="https://www1.eeoc.gov/eeoc/statistics/enforcement/charges_by_state.cfm" id="CP___PAGEID=156578,charges_by_state.cfm,23|">http://www1.eeoc.gov/eeoc/statistics/enforcement/charges_by_state.cfm</a>.</p>
+<p>The EEOC will update the state data when new charge statistics are available each fiscal year.  </p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination.  Further information about the EEOC is available on its web site at www.eeoc.gov. <br/>
+</p></div>
+</div>

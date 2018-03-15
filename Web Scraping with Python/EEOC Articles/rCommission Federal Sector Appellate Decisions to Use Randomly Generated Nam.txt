@@ -1,0 +1,23 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	10-5-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Commission Federal Sector Appellate Decisions to Use Randomly Generated Names</h1>
+</div>
+<div align="left"><p>WASHINGTON -- The U.S. Equal Employment Opportunity Commission (EEOC) today announced a change in the Commission's practices with respect to federal sector appellate decision captions.</p>
+<p>Beginning on Oct. 1, 2015, all federal sector appellate decisions issued for publication will use a randomly generated name as a substitute for the name of the complainant, rather than the generic term "Complainant." This randomly generated name
+will consist of a first name and last initial, and will be assigned using a computer program that selects names from a list of pseudonyms bearing no relation to the complainant's actual name. A complainant who wishes to be identified by his or her
+name in a case caption rather than by a randomly generated name may submit a written request to EEOC's Office of Federal Operations.</p>
+<p>Starting in October 2013, the Commission had changed its practice of publishing federal sector appellate decisions with the name of the complainant. All decisions published after Oct. 1, 2013, used the term "Complainant" in the caption of the
+case, rather than the complainant's name.</p>
+<p>"EEOC's federal sector appellate decisions are a vital resource for our stakeholders in both the federal and private sectors to better understand the Commission's application of the laws we enforce," said Chair Jenny R. Yang. "The use of randomly
+generated names strikes a good balance between privacy interests and the ability of our stakeholders to readily reference the important principles in these decisions."</p>
+<p>Commissioner Chai Feldblum, who has been leading the Commission's efforts in the federal sector at the request of Chair Yang, highlighted the importance of the new approach.</p>
+<p>"I am pleased that we have modified our policy so that federal sector appellate decisions will now have randomly generated names in the captions," Feldblum said. "This will make it easier for the public to cite Commission appellate decisions for
+their precedential value and will facilitate the Commission's outreach and education efforts."</p></div>
+</div>

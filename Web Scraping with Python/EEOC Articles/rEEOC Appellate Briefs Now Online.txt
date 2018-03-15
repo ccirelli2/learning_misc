@@ -1,0 +1,19 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	6-20-12</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Appellate Briefs Now Online</h1>
+</div>
+<div align="left"><p align="center"><strong><em>Appellate Court and Amicus Briefs Available in Searchable Database on EEOC Website</em></strong></p>
+<p>WASHINGTON—The U.S. Equal Employment Opportunity Commission (EEOC) announced today that it has put its appellate and amicus briefs going back to 2000 on its <a href="http://www.eeoc.gov/eeoc/litigation/briefs.cfm" id="http://www.eeoc.gov/eeoc/litigation/briefs.cfm|">external website</a>. These briefs from the EEOC’s Appellate Services Division represent litigation in the U.S. Circuit Courts of Appeals in which the Commission was a party, or briefs filed as a ‘friend of the court’ (amicus curiae) in those courts, as well as in U.S. District Courts and state courts.</p>
+<p>The new database allows full text searches for key words or phrases, such as “reasonable accommodation diabetes” or “race harassment nooses,” as well as searches by case name, court, statutes involved, basis and type of brief. New briefs will be added within several weeks of being filed in court.</p>
+<p>The database does not include briefs filed in the Supreme Court, either as party or amicus. These are available from the <a href="http://www.justice.gov/osg/briefs/index.html" id="http://www.justice.gov/osg/briefs/index.html|">Office of the Solicitor General</a> at the Department of Justice. Briefs from the EEOC filed before 2000 are available from the clerks’ offices of the various courts in which they were filed.</p>
+<p>This new database is consistent with the spirit of the <a href="http://www.whitehouse.gov/open/documents/open-government-directive" id="http://www.whitehouse.gov/open/documents/open-government-directive|">Open Government Initiative</a>, which aims to make government data more accessible to the public. Previously, the EEOC put <a href="http://www1.eeoc.gov/eeoc/statistics/enforcement/charges_by_state.cfm" id="http://www1.eeoc.gov/eeoc/statistics/enforcement/charges_by_state.cfm|">state-specific</a> charge data on its website to complement the national data already there.</p>
+<p>Additionally, the EEOC has created a <a href="http://www.eeoc.gov/eeoc/litigation/amicus.cfm" id="http://www.eeoc.gov/eeoc/litigation/amicus.cfm|">new page</a> on its website explaining the scope of its amicus curiae program. This page includes a new email box where counsel may suggest cases that fall within the Commission’s amicus curiae guidelines: <a href="mailto:amicus@eeoc.gov" id="mailto:amicus@eeoc.gov|">amicus@eeoc.gov</a>.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Further information about the EEOC is available on its web site at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

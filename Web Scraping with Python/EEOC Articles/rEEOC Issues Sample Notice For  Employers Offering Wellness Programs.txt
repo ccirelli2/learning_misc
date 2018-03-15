@@ -1,0 +1,26 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	6-16-16</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues Sample Notice For  Employers Offering Wellness Programs</h1>
+</div>
+<div align="left"><p>WASHINGTON -- The U.S. Equal Employment Opportunity Commission (EEOC) today posted on its website a sample notice that will help employers who have wellness programs comply with their obligations under a recently issued Americans with
+Disabilities Act (ADA) rule. The notice is available at <a href="https://www.eeoc.gov/laws/regulations/ada-wellness-notice.cfm">https://www.eeoc.gov/laws/regulations/ada-wellness-notice.cfm</a>, and a brief question-and-answer document describing
+the notice requirement and how to use the sample notice is available at <a href="https://www.eeoc.gov/laws/regulations/qanda-ada-wellness-notice.cfm">https://www.eeoc.gov/laws/regulations/qanda-ada-wellness-notice.cfm</a>.</p>
+<p>The rule, available at https://federalregister.gov/a/2016-11558, says that employer wellness programs that ask employees about their medical conditions or that ask employees to take medical examinations (such as tests to detect high blood
+pressure, high cholesterol or diabetes) must ensure that these programs are reasonably designed to promote health and prevent disease, that they are voluntary, and that employee medical information is kept confidential.</p>
+<p>The Commission indicated in the preamble to its ADA rule that the sample notice would be posted on the EEOC's website within 30 days of the rule's publication on May 17, 2016.</p>
+<p>Limited financial and other incentives are permitted as part of voluntary wellness programs under the rule. However, employers may not require employees to participate in a wellness program; may not deny or limit their health coverage for
+non-participation; may not retaliate against or interfere with any employee who does not want to participate; and may not coerce, threaten, intimidate or harass anyone into participating.</p>
+<p>Employees also must receive a notice describing what information will be collected as part of the wellness program, who will receive it, how it will be used, and how it will be kept confidential. If the wellness program provides the notice, the
+employer must still ensure that their employees receive it.</p>
+<p>"EEOC has provided this sample notice to assist our stakeholders and promote compliance," said EEOC Chair Jenny R. Yang.</p>
+<p>Permissible incentives under the rule are calculated based on a percentage of the cost of self-only health insurance coverage. The obligation to provide the notice goes into effect on the first day of the plan year that begins on or after Jan. 1,
+2017 for the plan that an employer uses to calculate the incentive limit.</p>
+<p>EEOC enforces federal laws prohibiting employment discrimination. Further information about the EEOC is available on its website at <a href="https://www.eeoc.gov" id="https://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>
