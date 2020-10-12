@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Data ------------------------------------------------------------------------
+np.random.seed(1)
 aluminum = np.random.uniform(1, 10, 10)
 copper = np.random.uniform(1, 10, 10)
 steel = np.random.uniform(1, 10, 10)
@@ -36,14 +37,23 @@ fig, ax = plt.subplots()
 # All Features Get Added to Ax
 '''x_pos = array with count of number of bars.  Here it = [0,1,2]
 '''
-ax.bar(x_pos, cte_s, yerr=error, align='center', alpha=0.5, ecolor='black',
+rect1 = ax.bar(x_pos, cte_s, yerr=error, align='center', alpha=0.5, ecolor='black',
        capsize=10)
 ax.set_ylabel('Coefficient of Thermal Expansion ($\degree C^{-1}$)')
 ax.set_xticks(x_pos)
 ax.set_xticklabels(x_labels)
 ax.set_title('Coefficent of Thermal Expansion (CTE) of Three Metals')
 ax.yaxis.grid(True)
-
+def autolabel(rects):
+    """
+    Attach a text label above each bar displaying its height
+    """
+    for rect in rects:
+       height = rect.get_height()
+       ax.text(x = rect.get_x(), y = height*1.25,
+               s = '%d' % int(height),
+       ha='center', va='bottom')
+autolabel(rect1)
 # Save the figure and show
 plt.tight_layout()
 plt.savefig('bar_plot_with_error_bars.png')
