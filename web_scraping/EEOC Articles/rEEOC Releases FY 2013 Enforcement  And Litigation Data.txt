@@ -1,0 +1,31 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	2-5-14</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Releases FY 2013 Enforcement  And Litigation Data</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Statistics Provide Detail Concerning Record Monetary Relief; Charge Receipts and Litigation</em></strong></p>
+<p>WASHINGTON-The U.S. Equal Employment Opportunity Commission (EEOC) today released a comprehensive set of fiscal year 2013 data tables showing that the agency obtained the highest monetary recovery in agency history through its administrative
+process, increasing by $6.7 million to $372.1 million. The data tables also provide detailed breakdowns for the 93,727 charges of workplace discrimination the agency received. The fiscal year runs Oct. 1 to Sept. 30.</p>
+<p>The fiscal year 2013 enforcement and litigation statistics, which include trend data, are available on the EEOC's website at <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/index.cfm" id="http://www.eeoc.gov/eeoc/statistics/enforcement/index.cfm|">http://www.eeoc.gov/eeoc/statistics/enforcement/index.cfm</a>. </p>
+<p>"The data released today reflects the commitment of the men and women of the EEOC to fulfilling our vision of achieving justice and equality in the nation's workplaces," said EEOC Chair Jacqueline A. Berrien. "This work is particularly noteworthy
+given the extraordinary fiscal constraints and operational challenges in fiscal year 2013."</p>
+<p>The 93,727 charges received in fiscal year 2013 are a 5.7 percent decrease from the 99,412 charges received in fiscal year 2012. As in previous years, retaliation under all statutes was the most frequently cited basis for charges of
+discrimination, increasing in both actual numbers (38,539) and as a percentage of all charges (41.1 percent) from the previous year. This was followed by race discrimination (33,068/35.3 percent); sex discrimination, including sexual harassment and
+pregnancy discrimination (27,687/29.5 percent); and discrimination based on disability (25,957/27.7 percent). Both race and disability discrimination increased in percentage of all charges while decreasing in raw numbers from the previous year,
+while charges of sex discrimination decreased by over 2,600 charges.</p>
+<p>For the fourth year in a row, the EEOC resolved more charges of discrimination than it took in, despite sequestration which caused the agency to furlough its entire workforce for 40 hours, freeze hiring and reduce its budget for litigation,
+information technology, travel and contracts for services, among other things.</p>
+<p>In fiscal year 2013, the EEOC filed 131 merits lawsuits alleging discrimination. Lawsuits filed under Title VII of the Civil Rights Act of 1964 were the most numerous (78), followed by lawsuits filed under the Americans with Disabilities Act
+(51). During the fiscal year, the Commission resolved 209 merits lawsuits, resulting in $39 million in monetary benefits to victims of unlawful discrimination, plus wide-ranging injunctive relief, tailored to the particular issue in the
+lawsuits.</p>
+<p>As part of its Open Government efforts and in response to requests for this data, the Commission issued a new table this year showing "Basis by Issue"-in other words, what sorts of discriminatory actions were alleged to violate the different
+sections of the laws enforced by the EEOC. This expands on the table "Statute by Issue" first released last year. Now, for example, readers can drill down beyond allegations of hiring discrimination under Title VII, shown in the Statute by Issue
+table, to discover how many of those hiring allegations were due to race, sex, national origin etc. The most frequently cited issue under all statutes was discharge, followed by terms and conditions of employment, and harassment.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Further information is available on its website at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

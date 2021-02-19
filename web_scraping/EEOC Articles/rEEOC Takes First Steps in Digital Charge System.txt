@@ -1,0 +1,36 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	5-6-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Takes First Steps in Digital Charge System</h1>
+</div>
+<div align="left"><p style="text-align: center;"><em><strong>ACT Digital Pilot Program Allows Online Interaction With Employers</strong></em></p>
+<div style="float: right; width: 25%; padding: 1em; margin: 0pt 1em; border: 1px solid navy;">
+<h2 class="center">ACT Digital Pilot Program Resources</h2>
+<ul>
+<li><a class="CP___PAGEID_197173" href="/employers/act-digital-phase-1.cfm">About ACT Digital - EEOC's Digital Charge System and Its First Phase of Implementation</a></li>
+<li><a class="CP___PAGEID_197177" href="/employers/act-digital-qanda.cfm">Questions and Answers on Phase I of ACT Digital, EEOC's Digital Charge System</a></li>
+<li><a class="CP___PAGEID_197187" href="/employers/respondent_portal_users_guide.cfm">EEOC Respondent Portal User's Guide</a></li>
+</ul>
+</div>
+<p>WASHINGTON - The U.S. Equal Employment Opportunity Commission (EEOC) announced today that 11 of its 53 offices will begin a pilot program called ACT Digital to digitally transmit documents between the EEOC and employers regarding discrimination
+charges.  This is the first step in the EEOC's move toward an online charge system that will streamline the submission of documents, notices and communications in the EEOC's charge system.  This system applies to private and public
+employers, unions and employment agencies.</p>
+<p>The EEOC receives about 90,000 charges per year, making its charge system the agency's most common interaction with the public.  The EEOC's ACT Digital initiative aims to improve customer service, ease the administrative burden on staff, and
+reduce the use of paper submissions and files.</p>
+<p>The first phase of ACT Digital allows employers against whom a charge has been filed to communicate with the EEOC through a secure portal to download the charge, review and respond to an invitation to mediate, submit a position statement, and
+provide and verify their contact information. The newly designed EEOC notice of a charge will provide a password-protected log in for the employer to access the system in the pilot offices. Employers will also have the option of opting out of the
+pilot program and receiving and submitting all documents and communications in paper form.</p>
+<p>EEOC Chair Jenny R. Yang commended ACT Digital as an innovative first step in streamlining the agency's charge system.</p>
+<p>"The EEOC's pilot of a digital charge system is an important step forward that will benefit the public and our staff," Chair Yang noted. "This will improve our responsiveness to the public, efficiently utilize our resources, and protect the
+security of documents in our online system.  We encourage employers to provide candid feedback and suggestions during the pilots so we can make adjustments to strengthen the system."  </p>
+<p>The pilot begins May 6, 2015 in the following EEOC offices: Charlotte, Greensboro, Greenville, Norfolk, Raleigh, Richmond and San Francisco.  The EEOC offices in Denver, Detroit, Indianapolis and Phoenix will also begin their pilots by the
+end of May 2015.  </p>
+<p>The EEOC enforces federal laws prohibiting discrimination in employment.  More information is available at www.eeoc.gov.<br/>
+</p></div>
+</div>

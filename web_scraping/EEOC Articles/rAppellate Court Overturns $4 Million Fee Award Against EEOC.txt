@@ -1,0 +1,33 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	12-23-14</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Appellate Court Overturns $4 Million Fee Award Against EEOC</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Eighth Circuit Says Lower Court Improperly Made "Universal Finding" that All of EEOC's Claims Against CRST Trucking Company Were "Without Foundation"</em></strong></p>
+<p>CHICAGO - The U.S. Court of Appeals for the Eighth Circuit issued an order Monday reversing a federal district court's decision granting over $4 million in fees and costs to CRST Van Expedited Inc. (CRST), a trucking company, against the U.S.
+Equal Employment Opportunity Commission (EEOC), and remanding the case back to the lower court to "individually assess each of the claims" and "explain why it deems a particular claim to be frivolous, unreasonable, or groundless."</p>
+<p>EEOC brought suit against the trucking company in 2007, (<em>EEOC v. CRST Van Expedited Inc.</em>, 1:07-cv-00095-LRR, N.D. Iowa), alleging that CRST was responsible for severe and pervasive sexual harassment in its New-Driver Training Program,
+ultimately identifying over 150 individual victims of the alleged harassment for whom it was seeking relief. In a series of orders, the district court dismissed the claims of all of these women. EEOC appealed and the parties eventually settled the
+claim of one of the women alleging harassment. The district court then awarded the company fees and costs against EEOC, stating that CRST was the prevailing party with respect to the remaining 153 individual claimants.</p>
+<p>In its 25-page order in the current appeal (No. 13-3159, U.S. Court of Appeals for the Eighth Cir.), the appellate court reversed some of the findings of the district court on which it had based its fee award. Specifically, the Eighth Circuit
+reversed the lower court's award of attorney's fees based on a purported pattern-or-practice claim, holding that EEOC had made no such claim. The court also reversed the lower court's award of fees relating to the dismissal of 67 claims based on the
+alleged failure of EEOC to satisfy its pre-suit obligations, holding that such dismissal does not constitute a ruling on the merits - necessary for justifying an award of attorney fees.</p>
+<p>The appellate court then turned to the individual claims of the alleged victims. Instead of individually analyzing whether each of the 153 claims was "frivolous, unreasonable, or groundless," as required by controlling legal precedent, the lower
+court summarily found that all 153 claims satisfied this standard. The Eighth Circuit found this was error. More problematic, the appellate court found that the lower court included in its decision other claims for which the appellate court
+explicitly found earlier that CRST was not entitled to any fees (the pattern-or-practice claim and the 67 claims dismissed based on EEOC's pre-suit obligations). The Eighth Circuit therefore remanded the case back to the district court to make
+individual assessments on the merits of each of the remaining claims.</p>
+<p>David Lopez, General Counsel of the EEOC, said, "We view the 8th Circuit's decision as a favorable one. The appellate court's careful analysis reinforces long-standing principles of law, and the decision emphasizes that fees cannot be
+awarded against the EEOC absent particularized determinations that the claims pursued by the EEOC were frivolous.  To us, that is a principle of absolutely critical importance, and we understand the court's decision to turn upon that principle.
+The case is, of course, not over, and further proceedings lie ahead. We are encouraged that the 8th Circuit has again articulated the principle which will govern as we move forward."</p>
+<p>The EEOC's Regional Attorney in Chicago, John Hendrickson, added, "As anyone who has followed the CRST litigation knows, the agency has absorbed its share of criticism about the case even though the proceedings were ongoing. Today's decision
+illustrates the perils of rendering premature judgments and counsels a more measured approach."</p>
+<p>EEOC's Chicago District Office is responsible for processing charges of discrimination, administrative enforcement, and the conduct of agency litigation in Illinois, Wisconsin, Minnesota, Iowa and North and South Dakota, with Area Offices in
+Milwaukee and Minneapolis.</p>
+<p>EEOC is responsible for enforcing federal laws against employment discrimination. Further information is available at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

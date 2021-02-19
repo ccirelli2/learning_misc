@@ -1,0 +1,34 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	9-29-16</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC to Collect Summary Pay Data</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>First Collection Will Be in March 2018</em></strong></p>
+<p>WASHINGTON - The U.S. Equal Employment Opportunity Commission (EEOC) today announced that starting March 2018, it will collect summary employee pay data from certain employers. The new data will improve investigations of possible pay
+discrimination, which remains a contributing factor to persistent wage gaps. The summary pay data will be added to the annual Employer Information Report or EEO-1 report that is coordinated by the EEOC and the Department of Labor's Office of Federal
+Contract Compliance Programs (OFCCP). OFCCP collects data from federal contractors and subcontractors.    </p>
+<p>"More than 50 years after pay discrimination became illegal it remains a persistent problem for too many Americans," said EEOC Chair Jenny R. Yang. "Collecting pay data is a significant step forward in addressing discriminatory pay practices.
+This information will assist employers in evaluating their pay practices to prevent pay discrimination and strengthen enforcement of our federal antidiscrimination laws." </p>
+<p>"Collecting data is a critical step in delivering on the promise of equal pay," said U.S. Secretary of Labor Thomas E. Perez. "Better data will not only help enforcement agencies do their work, but it helps employers to evaluate their own pay
+practices to prevent pay discrimination in their workplaces."</p>
+<p>EEOC is committed to providing support for employers as they transition to reporting summary pay data on the new EEO-1 report. In response to public comments, the first deadline for the new 2017 EEO-1 report will be March 31, 2018, which gives
+employers 18 months to prepare. This revision does not impact the 2016 EEO-1 report, which is due on September 30, 2016 and is unchanged. </p>
+<p>Private employers including federal contractors and subcontractors with 100 or more employees will report summary pay data. Under no circumstances should employers report individual pay or salaries or any personally identifiable information.</p>
+<p>Federal contractors and subcontractors with 50-99 employees will not report summary pay data, but they will continue to report employees by job category as well as by sex, ethnicity, and race as they do now. Employers with 99 or fewer employees
+and Federal contractors and subcontractors with 49 or fewer employees will not be required to complete the EEO-1 report as is current practice.</p>
+<p>EEOC will offer free webinars for interested employers and stakeholders on October 20 and October 26, 2016. Technical assistance also will be available through the EEOC's hotline and email. For more information, see <a href="https://www.eeoc.gov/employers/eeo1survey/2017survey.cfm">https://www.eeoc.gov/employers/eeo1survey/2017survey.cfm</a>.</p>
+<p>The EEOC adopted this new EEO-1 after an extensive deliberative process that included publication of two versions of the proposed EEO-1 for public comment and a public hearing on March 16, 2016, at which stakeholders, researchers, and academics
+discussed the EEO-1 proposal and responded to questions from EEOC Commissioners. In total, the EEOC considered written comments from thousands of individuals, employers and their representatives, civil rights and women's organizations, human
+resources and payroll associations, and Members of Congress.     </p>
+<p>The EEOC does not disclose EEO-1 data for a specific employer; it only publishes large-scale aggregated EEO-1 data in a way that fully protects employer confidentiality and employee privacy.  OFCCP holds EEO-1 data for federal contractors
+and subcontractors confidential to the maximum extent possible under the Freedom of Information Act and the Trade Secrets Act.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination, including the Equal Pay Act of 1963 and the Civil Rights Act of 1964. Collectively, these laws prohibit pay discrimination based on sex, race, ethnicity, and other bases. More
+information about the revised EEO-1 report, including the <a href="https://www.eeoc.gov/employers/eeo1survey/upload/component-1-and-2-sample-2017-eeo1-report.pdf">new form</a>, a <a href="https://www.eeoc.gov/employers/eeo1survey/2017survey-fact-sheet.cfm">Fact Sheet for Small Business</a>, and a <a href="https://www.eeoc.gov/employers/eeo1survey/2017survey-qanda.cfm">question and answer document</a> are available on EEOC's website
+at <a href="http://www.eeoc.gov">www.eeoc.gov</a>. General information for Federal contractors and subcontractors is available at OFCCP's website www.dol.gov/ofccp/</p></div>
+</div>

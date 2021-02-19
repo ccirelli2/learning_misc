@@ -1,0 +1,51 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	5-18-16</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Advancing Opportunity for All in the Tech Industry</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Exploring New Ways to Achieve Inclusive Workplaces and Tackle the</em></strong> <strong><em>Significant Challenges that Remain In Promoting Diversity in Tech</em></strong></p>
+<p>WASHINGTON-The high tech sector has become a major source of economic growth fueling the U.S. economy.  Yet, diversity and inclusion in the tech industry has in many ways gotten worse, a number of witnesses told the members of the U.S. Equal
+Employment Opportunity Commission (EEOC) at a <a href="https://www.eeoc.gov/eeoc/meetings/5-18-16/index.cfm" id="CP___PAGEID=207376,index.cfm,279|">public meeting held today</a> at agency headquarters in Washington.</p>
+<p>EEOC organized the meeting "Innovation Opportunity: Examining Strategies to Promote Diverse and Inclusive Workplaces in the Tech Industry" to highlight the significant challenges that remain in advancing opportunity for women, workers over 40,
+and other groups in the tech industry. In addition to the testimony, EEOC released a report on employment patterns in the high tech industry, which analyzes data both nationally and in Silicon Valley from the Employer Information EEO-1 Report
+(EEO-1) collected in 2014.  The <a href="https://www.eeoc.gov/eeoc/statistics/reports/hightech/">Diversity in High Tech report</a> is available on the Commission's website.</p>
+<p>"The high tech sector has been an innovation leader, transforming how we live our lives today and driving solutions to some of our greatest societal challenges. Let's harness that creative thinking and entrepreneurship to ensure that the talents
+of all Americans are fully utilized in this vital industry," said EEOC Chair Jenny R. Yang. "Standing still is not an option. Making progress in expanding opportunity in the high tech industry is critical to strengthening our economy and reducing
+inequality in our communities. Expanding diversity and inclusion is critical to unlocking the full potential of tomorrow's economy."</p>
+<p>Dr. Ronald Edwards, Director of EEOC's Program Research and Surveys Division in the Office of Research, Information &amp; Planning (ORIP), provided an overview of the report, Diversity in the Tech Industry, based on research EEOC conducted on
+firms in the tech sector, in Silicon Valley, and nationwide. The results were stark-in most job categories, the representation of women, African Americans and Hispanics were significantly less than their representation in the overall workforce. For
+women, Asian Americans, African Americans, and Latinos, their representation diminished markedly at higher levels in the organization, such as Executives and Managers as compared to Professionals and Technicians.</p>
+<p>"We will not harness the power of technology to tackle a broader set of societal challenges unless the technology workforce better reflects society," said Kweilin Ellingrud, a partner at the consulting firm McKinsey &amp; Company. There is a
+critical shortage of Americans in computer science, and "we will not fill the talent shortages that we face unless we include women and minorities more actively," she said. "This includes identifying and eliminating both unconscious and conscious
+bias in the workplace," said Ms. Ellingrud.</p>
+<p>To achieve a more diverse technology workplace and help close the talent gap, it will be critical to get more women and minorities in the technology pipeline. As Ms. Ellingrud noted, "We will need more women and minorities to be aware of computer
+science and related topics, be willing to try it, have access to it (either in school or in an after-school program), consider majoring in it in college, pursuing the degree, and ultimately entering a career in technology."</p>
+<p>Education alone, however, is insufficient to promote diversity--venture capital firms play a role in addressing or exacerbating disparities in entrepreneurship, according to Ben Jealous of Kapor Capital. Too often, the firms create a cycle of
+high-paying employment opportunities in tech entrepreneurship excluding women and people of color. Jealous, the former President and CEO of the NAACP, is now an advisor to tech start-ups and working to close gaps in financial inclusion. </p>
+<p>One way to overcome bias is to use technology itself, Jealous told the Commission. There is an entire field of startups creating innovative solutions to workplace diversity and inclusion. It's called People Ops Tech, and there are dozens of
+companies working to eliminate bias in hiring, find diverse talent pools, and create welcoming work environments for everyone.</p>
+<p>Camilla Velasquez, another speaker, works as head of Product and Marketing for Justworks, which provides human resource (HR) services to different companies, many of them in tech. For most start-ups, she told the Commission, HR policies are the
+last thing they think of when starting and growing their companies. But by adopting sound EEO practices from the start by outsourcing HR functions to another company, entrepreneurs can focus on what they do best, while still maintaining a
+professional HR presence.</p>
+<p>Age discrimination is not measured by EEO-1 forms, so the data are less precise, but this form of discrimination is the most widely articulated by companies, Laurie A. McCann of AARP Litigation Foundation told the Commission. Older workers are
+often openly declared to be undesirable due to their perceived lack of skills or new ideas. Her written statement quoted a venture capitalist's ageist comments, declaring himself "'an incredibly enthusiastic fan of very talented twentysomethings'
+because they 'have great passion' and 'don't have distractions like . . . children.'"</p>
+<p>Age discrimination in the technology sector is perhaps most evident in companies' hiring policies and practices, which are designed to attract and hire younger employees. "Job postings declaring a preference for new or recent graduates are common
+and some companies have actually specified which graduating class they are seeking," McCann testified.</p>
+<p>"Historically, women and minorities were less likely to study computer science or major in STEM fields," according to Erin Connell, a partner in the San Francisco office of the law firm Orrick. "Some of the most innovative and promising diversity
+initiatives coming out of the technology sector focus on education."<br/>
+</p>
+<p>The Commission will hold open the May 18 Commission meeting record for 15 days, and invites audience members, as well as other members of the public, to submit written comments on any issues or matters discussed at the meeting. Public comments
+may be mailed to Commission Meeting, EEOC Executive Officer, 131 M Street, N.E., Washington, D.C. 20507, or emailed to: <a href="mailto:Commissionmeetingcomments@eeoc.gov">Commissionmeetingcomments@eeoc.gov</a>.</p>
+<p>The comments you provide will be made available to members of the Commission and to Commission staff working on the matters discussed at the meeting. In addition, your comments may be published on EEOC's public website, or disclosed in response
+to Freedom of Information Act requests and in the Commission's library. By providing comments in response to this solicitation you are consenting to their use and consideration by the Commission and to their public availability. Accordingly, do
+not include any information in submitted comments that you would not want made public, like home address, telephone number, etc. Also note that when comments are submitted by e-mail, the sender's e-mail address automatically appears on the
+message. </p>
+<p>EEOC enforces federal laws prohibiting employment discrimination. Further information about EEOC generally and this meeting in particular is available at <a href="http://www.eeoc.gov">www.eeoc.gov</a></p></div>
+</div>

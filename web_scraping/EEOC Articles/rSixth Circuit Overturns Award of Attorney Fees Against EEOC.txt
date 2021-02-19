@@ -1,0 +1,36 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	11-13-12</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Sixth Circuit Overturns Award of Attorney Fees Against EEOC</h1>
+</div>
+<div align="left"><p style="text-align: center"><em><strong>Appellate Court Permits EEOC's Lawsuit Alleging Sex Discrimination in Hiring in the State of Michigan to Go Forward</strong></em></p>
+<p>WASHINGTON-The U.S. Equal Employment Opportunity Commission (EEOC) should not have been ordered to pay $2.6 million in attorney fees and was wrongly denied permission to litigate a lawsuit alleging sex discrimination against a class of women in
+Michigan, the U.S. Court of Appeals for the Sixth Circuit (6th Cir.) ruled in an opinion issued on Friday, November 9.  The ruling overturned the district court's dismissal of the EEOC's lawsuit against Cintas Corporation, reversed significant
+procedural rulings, and found "no basis" for awarding Cintas attorney fees.</p>
+<p>In 2005, the EEOC sued Cintas in the U.S. District Court for the Eastern District of Michigan alleging that it discriminated against women in hiring for its services sales representative position.  EEOC sued under §706 of Title VII of the
+Civil Rights Act of 1964, which permits the EEOC to bring a civil action in court.  </p>
+<p>During litigation, the district court ruled that since the EEOC had filed suit under §706 of Title VII and not under §707, which references suits to redress a "pattern or practice" of discrimination, EEOC could not use the so-called
+<em>Teamsters</em> proof framework, which allows the focus at the initial stages of litigation to be placed on whether discrimination was the employer's "standard operating procedure, rather than on whether the employer committed individual acts of
+discrimination.  The <em>Teamsters</em> framework is named for a 1977 Supreme Court case (<em>International Brotherhood of Teamsters v. United States</em>).  </p>
+<p>The district court's ruling required EEOC to shift its focus to individual acts of alleged discrimination, and away from what EEOC alleged was an overall discriminatory practice that affected a class.  The district court later denied EEOC's
+motions to expand discovery and to depose the Cintas CEO, and the court ultimately ruled it must dismiss the EEOC's entire case because of a failure to meet the procedural requirements of investigation and conciliation.  Following that
+dismissal, the court awarded Cintas $2.6 million in attorney fees and costs as the "prevailing party" in the litigation.</p>
+<p>The EEOC appealed the district court's rulings to the Sixth Circuit (<em>Serrano &amp; EEOC v. Cintas Corp.</em>, Dkt. Nos. 10-2629/11-2057).  The Sixth Circuit reversed the judgments of the district court and remanded the case for further
+proceedings. Significantly, the appellate court held that EEOC may use the <em>Teamsters</em> proof framework when it files a lawsuit under §706.  The appellate court also held that the EEOC had met its obligation to investigate and conciliate
+the charges of discrimination, and that further discovery may well be necessary to give EEOC more information as EEOC "proceed[s] with its claims toward trial."</p>
+<p>Finally, the Court of Appeals reversed the lower court's grant of $2.6 million in attorney fees, holding that the district court abused its discretion when it awarded fees on the basis of what the court termed "egregious and unreasonable conduct"
+by EEOC.  The Sixth Circuit held that "[t]he EEOC pursued its claim within the bounds of professional conduct and in the good-faith belief that it had done what was necessary . . . ."  </p>
+<p>The case has now been returned to the district court for further proceedings.<br/>
+<br/>
+EEOC Appellate Attorney Jennifer Goldstein stated, "We are pleased that the court of appeals recognized that EEOC's efforts to resolve the case at the administrative stage were adequate, and that the $2.6 million fee award therefore should be
+reversed."  </p>
+<p>EEOC's Indianapolis Regional Attorney Laurie Young added, "The EEOC is gratified that this case will return to the district court, where we look forward to presenting our evidence of sex discrimination in hiring."</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Further information about the EEOC is available on the agency's website at www.eeoc.gov.<br/>
+</p></div>
+</div>

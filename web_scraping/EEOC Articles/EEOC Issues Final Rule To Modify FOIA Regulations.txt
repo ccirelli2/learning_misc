@@ -1,0 +1,28 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	10-23-17</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues Final Rule To Modify FOIA Regulations</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Changes Will Affect Certain FOIA Procedures, Federal Agency Says</em></strong></p>
+<p>WASHINGTON -- The U.S. Equal Employment Opportunity Commission (EEOC) has finalized an update of its Freedom of Information Act (FOIA) procedures by issuing a Final Rule in the Federal Register on Sept. 28, the federal agency announced today. The
+EEOC's Interim Final Rule was published in the Federal Register on Dec. 29, 2016, and the public was invited to issue comments for 30 days.</p>
+<p>The EEOC's Interim Rule revised its FOIA procedures at 29 CFR Part 1610 ("Availability of Records") in order to conform them to the FOIA Improvement Act of 2016.</p>
+<p>The FOIA Improvement Act of 2016, among other things, codifies the presumption of openness; limits the FOIA exemption for agency communications, (b)(5), to allow the disclosure of agency records created 25 years or more before the date of a FOIA
+request; and creates a Chief FOIA Officer Council co-chaired by the Office of Information Policy at the U.S. Department of Justice, and the Office of Government Information Services at the National Archives and Records Administration.</p>
+<p>The revisions to the statute require federal agencies do the following: provide the FOIA requesters with notice that they have of a minimum of 90 days to appeal from an adverse determination and a right to seek dispute resolution assistance from
+the agency FOIA Public Liaison and the Office of Government Information Service (OGIS); make disclosable records and documents available for public inspection in an electronic format; make available for inspection in an electronic format records
+that have been requested three or more times (frequently requested records); submit an agency annual report to the attorney general and to the director of OGIS; make raw annual report statistical data electronically available for public inspection;
+not charge a fee for providing records when the agency misses a deadline for complying with a FOIA request unless unusual circumstances apply and more than 5,000 pages are necessary to respond to the request; and disclose information requested under
+FOIA exemption (b)(5) unless the agency reasonably foresees that such disclosure would harm an interest protected by a FOIA exemption or disclosure is prohibited by law, and consider partial disclosures, and take steps to segregate and release
+nonexempt information.</p>
+<p>The regulations can be viewed at: https://www.eeoc.gov/eeoc/foia/resources.cfm .</p>
+<p>For more information about EEOC's FOIA Program, please visit <a href="http://www.eeoc.gov/eeoc/foia/index.cfm">http://www.eeoc.gov/eeoc/foia/index.cfm</a></p>
+<p>The EEOC advances opportunity in the workplace by enforcing federal laws prohibiting employment discrimination. More information is available at <a href="https://www.eeoc.gov" id="https://www.eeoc.gov|">www.eeoc.gov</a>. Stay connected with the
+latest EEOC news by subscribing to our <a href="https://public.govdelivery.com/accounts/USEEOC/subscriber/new" id="https://public.govdelivery.com/accounts/USEEOC/subscriber/new|">email update</a>s.</p></div>
+</div>

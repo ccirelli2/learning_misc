@@ -1,0 +1,29 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	9-15-14</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>New EEOC Report Identifies Common Errors by Federal Agencies in Dismissing Discrimination Complaints on Procedural Grounds</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>One-Third of Agency Dismissals Are Reversed and Remanded by EEOC</em></strong></p>
+<p>WASHINGTON - As part of its continuing efforts to improve the federal sector complaint process, the U.S. Equal Employment Opportunity Commission (EEOC) today released a new report, <em><a href="https://www.eeoc.gov/federal/reports/dismissals.cfm" id="CP___PAGEID=191970,dismissals.cfm,30|">Preserving Access to the Legal System: Common Errors by Federal Agencies in Dismissing Complaints of Discrimination on Procedural Grounds</a></em>.<br/>
+</p>
+<p>In the equal employment opportunity (EEO) process for federal employees and applicants for federal employment, federal agencies initially process complaints of employment discrimination. In doing so, agencies may dismiss complaints without
+investigation on a variety of procedural grounds described in federal sector regulations (29 C.F.R. Part 1614).</p>
+<p>These dismissal decisions may be appealed by complainants to EEOC. Of the appellate decisions issued each year by the EEOC on federal agency dismissals, approximately one-third are reversed, with the complaints being remanded by EEOC's Office of
+Federal Operations (OFO) to the agencies for investigation.</p>
+<p>"Preservation of access to the legal system is one of the Commission's critical priorities," said Carlton Hadden, director of OFO. "In support of that goal, the EEOC examined its appellate decisions, focusing on procedural dismissals by federal
+agencies of EEO discrimination complaints. Our report analyzed decisions which resulted in a reversal of dismissals, to identify any common errors. By doing so, we hope to reduce the number of incorrect procedural dismissals by federal
+agencies."</p>
+<p>OFO examined five years of decisions (2008-2012) and determined an average appellate reversal rate for procedural dismissals by federal agencies. The government-wide reversal rates for each fiscal year examined are as follows: FY 2008 - 30.3%; FY
+2009 - 35.5%; FY 2010 - 37%; FY 2011 - 34.9%; and FY 2012 - 44.9%.</p>
+<p>OFO identified those agencies with higher than the government-wide reversal rates and analyzed the appellate reversal decisions involving those agencies to identify the most common mistakes. This showed that 81% of the EEOC's reversal decisions
+involved only two regulatory grounds for dismissal: failure to state a claim and failure to comply with regulatory time limitations.</p>
+<p>These results have been shared with agency EEO directors and OFO is ready to assist agencies to ensure that access to the legal system is maintained for federal employees and applicants. Additionally, OFO has a training course available on
+procedural dismissals for agency EEO personnel through its EEO Training Institute.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination the private and public sectors. Further information about the EEOC is available online at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

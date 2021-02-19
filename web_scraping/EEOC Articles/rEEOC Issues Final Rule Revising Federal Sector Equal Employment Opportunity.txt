@@ -1,0 +1,28 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	7-24-12</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues Final Rule Revising Federal Sector Equal Employment Opportunity Complaint Process</h1>
+</div>
+<div align="left"><div style="float: right; width: 30%; margin-left: 1em; padding: 0.5em; border: 1px solid navy;">
+<p class="center"><strong>See Also</strong></p>
+<p><a href="https://www.eeoc.gov/laws/regulations/finalrule_qanda_revision.cfm" id="CP___PAGEID=160094,finalrule_qanda_revision.cfm,44|">Questions and Answers on EEOC’s Final Rule Implementing Revisions to 29 CFR Part 1614</a></p>
+</div>
+<p>WASHINGTON – The U.S. Equal Employment Opportunity Commission (EEOC) today issued a final rule modifying certain aspects of the complaint process that is used by federal employees and applicants who believe they have been subjected to prohibited employment discrimination by federal agencies. The final rule was coordinated with other federal agencies and reviewed by the U.S. Office of Management and Budget. The <a href="https://federalregister.gov/a/2012-18134">rule</a> was posted for public inspection today and will be published in the Federal Register on Wednesday, July 25, 2012.</p>
+<p>The final rule contains a number of key revisions to 29 CFR Part 1614 (“Federal Sector Equal Employment Opportunity”):</p>
+<ul>
+<li>As part of the EEOC’s authority to review agency programs for compliance with EEOC directives and guidelines which promote equal employment opportunity in the federal workplace, the EEOC can issue notices to agencies when non-compliance is found and not corrected.</li>
+<li>Agencies can seek approval from the EEOC to conduct pilot projects in which the complaint processing procedures vary from the requirements of Part 1614.</li>
+<li>A complaint which alleges that a proposal or preliminary step to taking a personnel action is discriminatory can be dismissed unless the complainant alleges that the proposal is retaliatory.</li>
+<li>An agency that has not completed its investigation in a timely manner must inform the complainant in writing that the investigation is not complete, provide an estimated date of completion, and remind the complainant that he or she has a current right to request a hearing or file a lawsuit.</li>
+<li>An administrative judge’s decision on the merits of a class complaint is a final decision, rather than a recommended decision, which an agency can implement or appeal.</li>
+<li>Agencies must submit appeals and complaint files to the EEOC in a digital format, unless they can establish good cause for not doing so. Complainants are encouraged to submit digital filings.</li>
+</ul>
+<p>Major revisions to the federal sector EEO complaint process were last implemented in 1999. Since then, in response to stakeholder dissatisfaction with certain elements of the process, the EEOC has held a public meeting on federal sector reform. It also established a Commissioner-led Federal Sector Workgroup to obtain suggestions for reform from complainants, agencies, unions, civil rights groups, and other stakeholders. This final rule is a product of the recommendations of the workgroup and the comments the EEOC received from the public and during the inter-agency coordination process. The Commission will revise Management Directive 110 to provide additional guidance regarding the changes made by the final rule and will continue to assess the federal sector EEO complaint process with a view to further improvements.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Further information about the EEOC is available on its public web site at <a href="http://www.eeoc.gov">www.eeoc.gov</a>.</p></div>
+</div>

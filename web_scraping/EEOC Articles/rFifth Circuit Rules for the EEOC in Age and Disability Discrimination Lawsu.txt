@@ -1,0 +1,34 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	7-30-13</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Fifth Circuit Rules for the EEOC in Age and Disability Discrimination Lawsuit</h1>
+</div>
+<div align="left"><p style="text-align: center"><em><strong>Federal Appellate Court Says Trial Court Erred In Granting Summary Judgment; Case Will Be Returned To Lower Court For A Trial On The Merits </strong></em></p>
+<p>HOUSTON - In a unanimous decision issued on Friday, July 26, 2013, the U. S. Court of Appeals for the Fifth Circuit reversed a Beaumont, Texas, trial court judge's grant of summary judgment in favor of DynMcDermott Petroleum Operations Company
+(DM), a federal contractor, the U.S. Equal Employment Opportunity Commission (EEOC) announced.  The EEOC had sued the company, alleging that it discriminated against an applicant on the basis of age and disability.</p>
+<p>The Fifth Circuit found that genuine issues of material fact precluded summary judgment in favor of DM.  It returned the lawsuit to the trial court for a trial on the merits. (<em>EEOC v. DynMcDermott Petroleum Operations Company</em>, No.
+12-40424, on appeal from the United States District Court for the Eastern District of Texas, USDC No.1:10-CV-510).</p>
+<p>The Fifth Circuit recounted the facts of the case in its decision.  DM is a privately-held corporation that provides maintenance and operations services for the Strategic Petroleum Reserve managed by the U.S. Department of Energy. Phillip
+"Mike" Swafford, a former planner/scheduler for DM, was recommended for an open planner/scheduler position at DM's facility in Winnie, Texas, by both his former supervisor and the manager in charge of hiring for the position.  </p>
+<p>According to the opinion, despite these recommendations, the facility's director, who had direct supervisory authority over the hiring manager, repeatedly stated that Swafford should not be hired because of his age, then 56 years, and his wife's
+cancer, which the facility's director assumed would interfere with Swafford's ability to perform his job duties.  The Court noted that the director's discriminatory statements were made both verbally and in writing in emails to company
+officials in New Orleans, including his supervisor, the Human Resources Director, the CEO and the company's General Counsel.  </p>
+<p>The director also threatened the hiring manager with disciplinary action for the hiring manager's "insubordination" related to the prospective hiring of Swafford.  Subsequently, the hiring manager hired a 35-year-old applicant with no prior
+experience with the company or its program-specific software.  </p>
+<p>Such alleged conduct would violate Title I of the Americans With Disabilities Act (ADA), which prohibits discrimination against individuals because of their association with people with disabilities; and the Age Discrimination in Employment Act
+(ADEA).   The EEOC brought a lawsuit in 2010, after first attempting to settle the matter through its conciliation process.</p>
+<p>The district court in Beaumont granted summary judgment for DM, holding that no genuine issues of material fact existed with regard to the EEOC's claims of age and disability discrimination.  </p>
+<p>The Fifth Circuit reversed that decision and held that the district court erred in granting summary judgment to DM on the EEOC's claims for discrimination under the ADEA and the ADA and for liquidated and punitive damages.   The Fifth
+Circuit concluded that the evidence is such that a reasonable jury could return a verdict for the EEOC, finding that, but for Swafford's age and/or disabled wife, DM would have hired him.</p>
+<p>"We very much appreciate the careful scrutiny that the court of appeals gave to the facts and arguments in the case," said Barbara Sloan, the EEOC attorney handling the appeal.</p>
+<p>Connie Wilhite, EEOC senior trial attorney and the agency's attorney in charge of the case at the trial court level, added, "The Fifth Circuit held that the record evidence would support the EEOC's version of the facts that the site director and
+the alleged decision-maker violated the ADA and ADEA with regard to Mr. Swafford, while knowing that their actions were illegal.  Such facts rendered the case inappropriate for judgment without trial." </p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Additional information about the EEOC and the laws it enforces is available on the agency's website at http://www.eeoc.gov.<br/>
+ </p></div>
+</div>

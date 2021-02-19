@@ -1,0 +1,52 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	12-15-11</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Launches Small Business Task Force</h1>
+</div>
+<div align="left"><p align="center"><strong><em>Federal Agency to Expand and Enhance Assistance to Small Businesses</em></strong></p>
+<div style="width: 30%; float: right;">
+<div style="border: 1px solid black; padding: 0.5em; margin-left: 1em;">
+<h2 align="center">For More Information</h2>
+<ul style="margin: 1em; list-style-type: none;">
+<li><a href="https://www.eeoc.gov/eeoc/publications/smallbusiness.cfm" id="CP___PAGEID=148594,smallbusiness.cfm,64|">Get the Facts Series: Small Business Information</a></li>
+<li><a href="https://www.eeoc.gov/employers/contacts.cfm" id="CP___PAGEID=12598,contacts.cfm,5|">EEOC Small Business Liaisons</a></li>
+</ul>
+</div>
+<div style="border: 1px solid black; padding: 0.5em; margin: 1em 0pt 0pt 1em;">
+<h2 align="center">Public Comments</h2>
+<p>The Commission invites members of the public to submit written input on the Task Force. Public comments may be e-mailed to <a href="mailto:smallbusiness@eeoc.gov" id="mailto:smallbusiness@eeoc.gov|">smallbusiness@eeoc.gov</a>, or mailed to:</p>
+<p><strong>EEOC Small Business Task Force<br/>
+131 M Street, N.E.,<br/>
+Washington, D.C. 20507</strong></p>
+<p>All comments received will be made available to members of the Commission and to Commission staff working on the Task Force. Comments will also be placed in the EEOC library for public review.</p>
+</div>
+</div>
+<p>WASHINGTON -- The U.S. Equal Employment Opportunity Commission (EEOC) today launched an internal task force that will focus on expanding and improving outreach and technical assistance to small businesses. The Small Business Task Force, led by Commissioner Constance S. Barker, will work to find ways in which the agency could better collaborate with the small business community to ensure compliance with federal anti-discrimination laws.</p>
+<p>The internal task force includes EEOC District Directors from the Birmingham, Charlotte and San Francisco offices; program analysts responsible for outreach from the San Antonio, Los Angeles, and Philadelphia offices; and representatives from the Offices of Field Programs, General Counsel, Legal Counsel, and Communications and Legislative Affairs. The Task Force will, among other things, develop recommendations on how to:</p>
+<ul>
+<li>Utilize new technology to expand outreach to small businesses;</li>
+<li>Develop technical assistance and training initiatives for small businesses;</li>
+<li>Identify specialized approaches to aid small businesses owned by women and minorities;</li>
+<li>Identify specialized approaches for micro businesses, generally those with 50 or fewer employees; and</li>
+<li>Enhance small business information and training on the EEOC’s web site.</li>
+</ul>
+<p>The Small Business Task Force plans to focus on newly established small businesses and those that are too small to afford lawyers or human resource personnel.</p>
+<p>“I am pleased that Commissioner Barker is leading this important effort to assist small businesses in complying with the laws and regulations enforced by the EEOC,” Chair Jacqueline A. Berrien said. “The Task Force demonstrates our commitment to strengthening the lines of communication with small business owners and educating them about their responsibilities, including the benefits of preventing and resolving discrimination claims.”</p>
+<p>“This Task Force is particularly timely because America’s economic recovery depends to a large extent on the ability of small business to continue to thrive and to grow their businesses,” Commissioner Barker stated. “It is appropriate that we take a fresh look at our interactions with the small business community to see if we can better serve them.”</p>
+<p>Commissioner Barker, a former litigator who counseled small businesses on employment discrimination compliance issues, stated: “I am very sensitive to the real life day-to-day demands on the small business owner that make it difficult to keep up with complex laws and regulations. My brother is a small business owner, my parents were small business owners, and most of my clients were small business owners. We need to make it easier for owners of small businesses to quickly access the information they need to understand their legal obligations so they are able to comply with those obligations.”</p>
+<p>The Task Force will work during 2012 to develop recommendations to the Commission, which will be presented in a public Commission meeting.</p>
+<p>The Commission invites members of the public to submit written input on the Task Force. Public comments may be e-mailed to <a href="mailto:smallbusiness@eeoc.gov">smallbusiness@eeoc.gov</a>, or mailed to:</p>
+<blockquote>
+<p>EEOC Small Business Task Force<br/>
+131 M Street, N.E., Washington, D.C. 20507</p>
+</blockquote>
+<p>All comments received will be made available to members of the Commission and to Commission staff working on the Task Force. Comments will also be placed in the EEOC library for public review.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. The laws enforced by the EEOC apply to employers who meet the threshold number of employees for coverage. Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act, and the Genetic Information Nondiscrimination Act apply to employers who have at least 15 employees in 20 or more weeks of the calendar year. The Age Discrimination in Employment Act applies to employers with 20 or more employees. The Equal Pay Act does not contain a minimum number of employees for coverage. Additionally, employers with 100 or more employees (50 if the employer is a government contractor) are required annually to file the EEO-1 Report, providing a breakdown of the workforce by race, sex, and national origin in nine broad job categories.</p>
+<p>For information about the laws enforced by the EEOC, please contact the Commission’s small business liaisons at <a href="http://www.eeoc.gov/employers/contacts.cfm">http://www.eeoc.gov/employers/contacts.cfm</a>.</p></div>
+</div>

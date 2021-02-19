@@ -1,0 +1,50 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	2-4-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Estrena Estadisticas el Año Fiscal 2014 de Cumplimiento y Litigios</h1>
+</div>
+<div align="left"><p style="text-align: center"><em><strong>Porcentaje de Quejas Alegando Represalias Alcanza Récord, Mientras que Número Total de Quejas Disminuye</strong></em></p>
+<p>WASHINGTON - La Comisión Para la Igualdad de Oportunidades en el Empleo (EEOC) estrenó hoy <a href="https://www.eeoc.gov/eeoc/statistics/enforcement/index.cfm" id="CP___PAGEID=2420,index.cfm,23|">un set extensivos de datos</a> detallando  las
+88,778 quejas de discriminación en el trabajo que la agencia recibió. El año fiscal corrió del 1 de octubre de 2013, al 30 de septiembre 2014.</p>
+<p>El número de quejas presentadas disminuyó en comparación a los últimos años fiscales, debido en parte al cierre del gobierno durante el período del informe. Mientras que las quejas presentadas se redujeron en general en comparación con el año
+fiscal anterior, las quejas en el primer cuarto del año - que incluía el período del cierra - eran 3,000 y 5,000 menos que los otros cuartos.</p>
+<p>Entre los cargos que la EEOC recibió, el porcentaje de cargos alegando represalias alcanzó un mayor monto de: 42.8%. El porcentaje de cargos que alegan discriminación racial, la segunda acusación más común, se mantuvo estable en aproximadamente
+el 35%.  En el año fiscal 2014, la EEOC obtuvo $ 296.1 millones en alivio monetario total a través de su programa de ejecución pre-litigio.</p>
+<p>El número de demandas sobre el fondo presentadas por la Oficina del Abogado General de la EEOC en todo el país fue de 133, una cifra ligeramente mayor a los dos años fiscales anteriores. Una demanda sobre el fondo implica una acusación de
+discriminación, en comparación con las demandas de procedimiento, que se presentan en su mayoría para hacer cumplir las citaciones o para el alivio preliminar. Alivio monetario de los casos de litigio, incluyendo las resoluciones, ascendió a $22.5
+millones.</p>
+<p>"Detrás de estas cifras están las personas que se dirigieron a la EEOC porque creían que habían sufrido discriminación ilegal," dijo la Presidenta de la EEOC Jenny Yang. "La EEOC mantiene su compromiso con la resolución significativa de las
+quejas y la ejecución estratégica para eliminar las barreras a la igualdad de oportunidades laborales."</p>
+<p>Los datos actualizados incluyen las tablas populares de <a href="https://www.eeoc.gov/eeoc/statistics/enforcement/statutes_by_issue.cfm" id="CP___PAGEID=166697,statutes_by_issue.cfm,23|">Estatutos</a> y <a href="https://www.eeoc.gov/eeoc/statistics/enforcement/bases_by_issue.cfm" id="CP___PAGEID=183523,bases_by_issue.cfm,23|">Bases</a> de Emisión. "Bases" se refiere a las características protegidas que dan lugar a la discriminación, como el sexo o la
+edad. En contraste, "asunto" es la acción discriminatoria, como la aprobación de la gestión o falta de promoción. </p>
+<p>Más específicamente, los números de quejas muestran los siguientes análisis por supuestas bases en orden descendente.<br/>
+</p>
+<ul>
+<li>Represalias bajo todos los estatutos: 37,955 (42.8%  de todas las quejas presentadas)</li>
+<li>Raza (incluyendo acoso racial): 31,073 (35 %)</li>
+<li>Sexo (incluyendo embarazo y acoso sexual): 26,027 (29.3%)</li>
+<li>Discapacidad: 25,369 (28.6%)</li>
+<li>Edad: 20,588 (23.2%)</li>
+<li>Origen Nacional: 9,579 (10.8%)</li>
+<li>Religión: 3,549 (4.0%)</li>
+<li>Color: 2,756 (3.1%)</li>
+<li>Acta de Igualdad Salarial: 938 (1.1%) Tenga en cuenta que la discriminación salarial por razón de sexo también puede ser presentada en virtud la provisión de discriminación sexual bajo el Título VII</li>
+<li>Acta de No Discriminación Basado en Información Genética: 333 (0.4%)</li>
+</ul>
+<p>Estos porcentajes suman más de 100 % porque algunos cargos alegan múltiples bases, como la discriminación por motivos de raza y color, o el sexo y las represalias.</p>
+<p>En el año fiscal 2014, el 30% de las quejas presentadas ante la EEOC alegaron el problema del acoso, con diferentes criterios, como el acoso racial o el acoso por razón de discapacidad. La prevención del acoso a través de la aplicación sistémica
+y divulgación dirigida es una cuestión prioritaria para la Comisión. La <a href="https://www.eeoc.gov/eeoc/meetings/1-14-15/index.cfm" id="CP___PAGEID=194216,index.cfm,208|">reunión</a> del 14 de enero del 2015, de la Comisión se centró en el acoso
+en el trabajo. La nueva tabla de <a href="https://www.eeoc.gov/eeoc/statistics/enforcement/all_harassment.cfm" id="CP___PAGEID=194155,all_harassment.cfm,23|">todos los cargos de acoso</a> incluye el acoso sexual, así como otras formas de acoso. El <a href="https://www.eeoc.gov/eeoc/statistics/enforcement/sexual_harassment.cfm" id="CP___PAGEID=2581,sexual_harassment.cfm,23|">acoso sexual</a> todavía permanece como una tabla separada, junto con las nuevas tablas que muestran los <a href="https://www.eeoc.gov/eeoc/statistics/enforcement/race_harassment.cfm" id="CP___PAGEID=150042,race_harassment.cfm,23|">cargos de acoso a base de raza</a>, así como las quejas alegando <a href="https://www.eeoc.gov/eeoc/statistics/enforcement/harassment_new.cfm" id="CP___PAGEID=166624,harassment_new.cfm,23|">acoso que no es acoso sexual</a>.</p>
+<p>La despedida de empleados sigue siendo el problema más común para todas las bases bajo el Título VII, el ADEA y el ADA. Las denuncias de acoso para todas las bases eran el próximo número más frecuentemente citado, con la excepción de la raza.
+Para la base de raza, términos y condiciones de empleo discriminatorios de empleo fueron el segundo tema más frecuentemente citado (9332), con el acoso de tercero (9023).</p>
+<p>Las tablas actualizadas también incluyen <a href="https://www1.eeoc.gov/eeoc/statistics/enforcement/charges_by_state.cfm" id="CP___PAGEID=156578,charges_by_state.cfm,23|">cargos por estado</a>. Se presentaron el mayor número de cargos en Texas
+(8035), seguido de Florida (7528) y California (6363).</p>
+<p>La EEOC hace cumplir las leyes del país que prohíben la discriminación en el empleo. Más información sobre el EEOC está disponible en www.eeoc.gov y en su página de Twitter, @EEOCespanol.<br/>
+</p></div>
+</div>
