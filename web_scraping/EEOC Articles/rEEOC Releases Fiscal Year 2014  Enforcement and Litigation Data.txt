@@ -1,0 +1,46 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	2-4-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Releases Fiscal Year 2014  Enforcement and Litigation Data</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Percentage of Claims Alleging Retaliation Reaches Record High, While Number of Charges Decrease</em></strong></p>
+<p>WASHINGTON-The U.S. Equal Employment Opportunity Commission (EEOC) today released a comprehensive set of fiscal year 2014 private sector <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/index.cfm">data tables</a> providing detailed
+breakdowns for the 88,778 charges of workplace discrimination the agency received. The fiscal year ran from Oct. 1, 2013, to Sept. 30, 2014.</p>
+<p>The number of charges filed decreased compared with recent fiscal years, due in part to the government shutdown during the reporting period. While charge filings were down overall compared to the previous fiscal year, first quarter charge
+filings--which included the period of the shutdown--were 3,000 to 5,000 less than the other quarters.</p>
+<p>Among the charges the EEOC received, the percentage of charges alleging retaliation reached its highest amount ever: 42.8 percent. The percentage of charges alleging race discrimination, the second most common allegation, has remained steady at
+approximately 35 percent. In fiscal year 2014, the EEOC obtained $296.1 million in total monetary relief through its enforcement program prior to the filing of litigation.</p>
+<p>The number of lawsuits on the merits filed by the EEOC's Office of General Counsel throughout the nation was 133, up slightly from the previous two fiscal years. A lawsuit on the merits involves an allegation of discrimination, compared with
+procedural lawsuits, which are filed mostly to enforce subpoenas or for preliminary relief. Monetary relief from cases litigated, including settlements, totaled $22.5 million.</p>
+<p>"Behind these numbers are individuals who turned to the EEOC because they believe that they have suffered unlawful discrimination," said EEOC Chair Jenny R. Yang. "The EEOC remains committed to meaningful resolution of charges and strategic
+enforcement to eliminate barriers to equal employment opportunity."</p>
+<p>The updated data include the popular tables of <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/statutes_by_issue.cfm">Statutes by Issue</a> and <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/bases_by_issue.cfm">Bases by
+Issue</a>. "Bases" refers to the protected characteristics giving rise to the discrimination, such as sex or age. In contrast "issue" is the discriminatory action, such as discharge or failure to promote.</p>
+<p>More specifically, the charge numbers show the following breakdowns by bases alleged in descending order.</p>
+<ul>
+<li>Retaliation under all statutes: 37,955 (42.8 percent of all charges filed)</li>
+<li>Race (including racial harassment): 31,073 (35 percent)</li>
+<li>Sex (including pregnancy and sexual harassment): 26,027 (29.3 percent)</li>
+<li>Disability: 25,369 (28.6 percent)</li>
+<li>Age: 20,588 (23.2 percent)</li>
+<li>National Origin: 9,579 (10.8 percent)</li>
+<li>Religion: 3,549 (4.0 percent)</li>
+<li>Color: 2,756 (3.1 percent)</li>
+<li>Equal Pay Act: 938 (1.1 percent) but note that sex-based wage discrimination can also be charged under Title VII's sex discrimination provision</li>
+<li>Genetic Information Non-Discrimination Act: 333 (0.4 percent)</li>
+</ul>
+<p>These percentages add up to more than 100 because some charges allege multiple bases, such as discrimination on the bases of race and color, or sex and retaliation.</p>
+<p>In fiscal year 2014, 30 percent of the charges filed with EEOC alleged the issue of harassment on various bases, such as race harassment or harassment on the basis of disability. Preventing harassment through systemic enforcement and targeted
+outreach is a priority issue for the Commission. The January 14, 2015 <a href="http://www.eeoc.gov/eeoc/meetings/1-14-15/index.cfm">Commission meeting</a> focused on Workplace Harassment. The new table for <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/all_harassment.cfm">All Harassment Charges</a> includes sexual harassment as well as other forms of harassment. <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/sexual_harassment_new.cfm">Sexual Harassment</a> still remains as a separate table, joined by new tables showing charges of <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/race_harassment.cfm">Race Harassment</a> as well as <a href="http://www.eeoc.gov/eeoc/statistics/enforcement/harassment_new.cfm">Charges Alleging Harassment Other than Sexual Harassment</a>.</p>
+<p>Discharge continues to be the most common issue for all bases under Title VII, the ADEA and the ADA. Allegations of harassment for all bases were the next most frequently cited issue, with the exception of race. For the basis of race,
+discriminatory terms and conditions of employment was the second most frequently cited issue (9,332), with harassment being the third (9,023).</p>
+<p>The updated tables also include <a href="http://www1.eeoc.gov/eeoc/statistics/enforcement/charges_by_state.cfm">Charges by State</a>. The greatest number of charges were filed in Texas (8,035), followed by Florida (7,528) and California
+(6,363).</p>
+<p>The EEOC enforces the nation's laws prohibiting discrimination in employment. Further information about the EEOC is available at <a href="http://www.eeoc.gov">www.eeoc.gov</a>.</p></div>
+</div>

@@ -1,0 +1,38 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	12-20-13</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>In Landmark Ruling, Seventh Circuit Holds Employers Cannot Challenge EEOC Conciliation</h1>
+</div>
+<div align="left"><p style="text-align: center;"><em><strong>Federal Law Plainly Precludes Courts From Reviewing The Commission's Informal Efforts To Bring Employers Into Compliance, Appeals Court Rules</strong></em></p>
+<p>WASHINGTON - In a decision endorsed by all its judges, the U.S. Court of Appeals for the Seventh Circuit decided today that employers cannot challenge - and courts cannot review - the adequacy of the U.S. Equal Employment Opportunity Commission's
+(EEOC)  informal pre-litigation efforts to bring employers into compliance with federal anti-discrimination laws.  </p>
+<p>According to the Court, Title VII of the Civil Rights Act of 1964 ("Title VII") conveys complete discretion to the Commission to engage in these "conciliation" efforts.  Therefore, the Seventh Circuit ruled, employers cannot seek to dismiss
+EEOC lawsuits by arguing that the Commission inadequately "conciliated" before filing its lawsuit.</p>
+<p>EEOC General Counsel David Lopez hailed this landmark decision, and the work of his team of attorneys in both Chicago and Washington.  He stated that the Seventh Circuit "carefully applied the letter of the law."  And it did so, Lopez
+explained, "in a way that promotes Title VII's goals, protects victims of discrimination, and preserves the EEOC's critical law-enforcement prerogatives."</p>
+<p>The decision stems from the EEOC's lawsuit against Mach Mining, LLC, headquartered in Marion, Ill.  The Commission had sued Mach Mining in September 2011, alleging that the company violated Title VII by failing to hire any female miners
+since beginning operations in 2006, despite having received applications from many highly qualified women.</p>
+<p>Mach Mining chose to defend against these allegations in part by criticizing the EEOC for inadequately conciliating the matter before suing.  The EEOC moved for partial summary judgment with respect to Mach Mining's so-called affirmative
+defense that the Commission had failed to properly conciliate before filing its complaint in court.  The district court denied the EEOC's motion for partial summary judgment, but allowed the EEOC to take an interlocutory appeal.</p>
+<p>Title VII does require the EEOC to "endeavor to eliminate . . . alleged unlawful employment practice[s] by informal methods of conference, conciliation, and persuasion."  However, the statute also plainly allows the Commission to sue the
+employer for discrimination if it "has been unable to secure from the respondent a conciliation agreement <em>acceptable to the Commission</em>."</p>
+<p>The Appellate Court pointed to this clear statutory language in ruling that employers cannot seek to dismiss EEOC lawsuits by alleging the EEOC's conciliation efforts were lacking.  "It would be difficult for Congress to have packed more
+deference to agency decision-making into so few lines of text," the Seventh Circuit stated.  Also, the Court reasoned, the law provides absolutely no guidelines enabling courts to judge whether the Commission's conciliation attempts were
+adequate, stating that "we are not tempted to send district courts down such a dimly lighted path."</p>
+<p>The Court also found that any "implied affirmative defense" for failure to conciliate would undermine the law enforcement goals of the anti-discrimination statutes.  It would "tempt employers to turn what was meant to be an informal
+negotiation into the subject of endless disputes over whether the EEOC did enough before going to court" - disputes which impose significant costs on both sides, as well as on courts.  Furthermore, if courts were empowered to dismiss EEOC
+lawsuits on this basis, the result would be that victims of discrimination would be left without a remedy - something Congress could not have intended.</p>
+<p>EEOC Appellate Attorney Eric Harrington, who represented the Commission on appeal, said "We are very pleased with the Appellate Court's faithful interpretation of the statutory requirements.  This decision will now permit the District Court
+to address the actual merits of this case, and enable the Commission to focus its efforts and resources on enforcing the laws against discrimination."</p>
+<p>Gregory Gochanour, the EEOC supervisory trial attorney for the Chicago District Office, which developed the litigation, added, "As a result of a few unfortunate decisions, litigation of our conciliation efforts in discrimination cases have become
+big distractions which waste the resources of employers, the courts, and the EEOC.  This decision will put an end to that in this jurisdiction and will compel all parties to focus on the issue of whether or not there actually was employment
+discrimination.  It will serve the interests of both employees and employers - and the national interest."</p>
+<p>The EEOC is responsible for enforcing federal laws against employment discrimination.  Further information is available at www.eeoc.gov. <br/>
+</p></div>
+</div>

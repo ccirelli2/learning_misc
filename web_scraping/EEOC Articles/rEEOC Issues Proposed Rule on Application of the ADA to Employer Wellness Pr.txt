@@ -1,0 +1,41 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	4-16-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues Proposed Rule on Application of the ADA to Employer Wellness Programs</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Proposed Rule Would Permit Incentives, Emphasize Confidentiality</em></strong></p>
+<p>WASHINGTON -- The U.S. Equal Employment Opportunity Commission (EEOC) today published a <a href="https://www.federalregister.gov/articles/2015/04/20/2015-08827/amendments-to-regulations-under-the-americans-with-disabilities-act" id="https://www.federalregister.gov/articles/2015/04/20/2015-08827/amendments-to-regulations-under-the-americans-with-disabilities-act|">Notice of Proposed Rulemaking (NPRM)</a> describing how Title I of the Americans with Disabilities Act (ADA) applies
+to employer wellness programs that are part of group health plans. The NPRM is available in the Public Inspection portion of the Federal Register, and will be officially published on Monday, April 20, 2015. Members of the public have 60 days from
+that date (or until Friday, June 19) to submit comments.</p>
+<p>The EEOC's proposed rule would provide much needed guidance to both employers and employees about how wellness programs offered as part of an employer's group health plan can comply with the ADA consistent with provisions governing wellness
+programs in the Health Insurance Portability and Accountability Act (HIPAA), as amended by the Affordable Care Act. In addition, the EEOC is also publishing a <a href="http://www.eeoc.gov/laws/regulations/facts_nprm_wellness.cfm">Fact Sheet for
+Small Businesses</a> and a <a href="http://www.eeoc.gov/laws/regulations/qanda_nprm_wellness.cfm">Question and Answer</a> document for the general public.</p>
+<p>Many employers that provide health insurance also offer workplace wellness programs intended to encourage healthier lifestyles or prevent disease. These programs sometimes use health risk assessments and biometric screenings to determine an
+employee's health risk factors, such as body weight and cholesterol, blood glucose, and blood pressure levels. Some of these programs offer financial and other incentives for employees who participate or achieve certain health outcomes.</p>
+<p>Although the ADA limits the circumstances in which employers may ask employees about their health or require them to undergo medical examinations, it allows such inquiries and exams if they are voluntary and part of an employee health program.
+ </p>
+<p>The NPRM further requires that if an employee health program seeks information about employee health or medical examinations, the program must be reasonably likely to promote health or prevent disease. Employees may not be required to participate
+in a wellness program, and they may not be denied health coverage or disciplined if they refuse to participate</p>
+<p>The EEOC's proposed rule makes clear that wellness programs are permitted under the ADA, but that they may not be used to discriminate based on disability. The rule explains that under the ADA, companies may offer incentives of up to 30 percent
+of the total cost of employee-only coverage in connection with wellness programs. These programs can include medical examinations or questions about employees' health (such as questions on a health risk assessment).  </p>
+<p>This limit is generally consistent with limits that HIPAA imposes on wellness programs. The rule also makes clear however, that the ADA provides important safeguards to employees to protect against discrimination based on disability. Accordingly,
+medical information collected as a part of a wellness program may be disclosed to employers only in aggregate form that does not reveal the employee's identity, and must be kept confidential in accordance with ADA requirements.</p>
+<p>"The EEOC worked closely with the Departments of Labor, Health and Human Services, and Treasury in developing this NPRM to harmonize the ADA's requirement that medical inquiries and exams that are part of an employee health program must be
+voluntary, and HIPAA's goal of allowing incentives to encourage participation in wellness programs," said EEOC Chair Jenny R. Yang.</p>
+<p>Employers also may not subject employees to interference with their ADA rights, threats, intimidation, or coercion for refusing to participate in a wellness program or for failing to achieve certain health outcomes. Finally, individuals with
+disabilities must be provided with reasonable accommodations that allow them to participate in wellness programs and to earn whatever incentive an employer offers.</p>
+<p>In addition to setting a limit on incentives, the NPRM, which includes interpretive guidance that will be published along with the final rule, requires that employers provide employees a notice that describes what medical information will be
+collected, with whom it will be shared, how it will be used, and how it will be kept confidential. The interpretive guidance also includes an extensive discussion of both legal requirements and best practices that ensure confidentiality of employee
+medical information.</p>
+<p>The Commission looks forward to receiving comments on the NPRM that will shape the final regulation. In addition, the Commission has asked a number of specific questions in the preamble to the NPRM on which it seeks comment before finalizing the
+rule. Methods for commenting are specified in the notice in the Federal Register.</p>
+<p>One of the six national priorities identified by the Commission's Strategic Enforcement Plan is for the Commission to address emerging and developing issues in equal employment law, including issues involving the ADA among other possible
+issues.</p>
+<p>The EEOC enforces the federal laws prohibiting employment discrimination. More information about the EEOC is available at <a href="http://www.eeoc.gov/">www.eeoc.gov</a>.</p></div>
+</div>

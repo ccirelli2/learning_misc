@@ -1,0 +1,17 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	9-18-13</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC, DOL to Host Twitter Chat on Sept. 25</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Experts to Answer Questions on Disability in Federal Government in Commemoration of 40th Anniversary of the Rehabilitation Act of 1973</em></strong></p>
+<p>WASHINGTON - On Wednesday, Sept. 25 from 1-2 p.m. ET, the U.S. Equal Employment Opportunity Commission (@EEOC_OFO) and the U.S. Department of Labor (@USDOL) will host in a live "Tweet Chat" in commemoration of the 40th anniversary of The
+Rehabilitation Act of 1973. The Rehabilitation Act makes it illegal to discriminate against a qualified employee or applicant with a disability in the federal government and in federal contracts and subcontracts.</p>
+<p>Members of the public can follow the conversation on Twitter and join in: #REHABACT</p>
+<p>The EEOC is the federal government agency responsible for enforcing anti-discrimination laws in the workplace.  Further information about the EEOC is available at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

@@ -1,0 +1,15 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	6-2-11</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Power Outage</h1>
+</div>
+<div align="left"><p>Because of the power outages affecting parts of Washington, DC, the Headquarters and Washington Field Office of the US EEOC were closed Wednesday, June 1st, and Thursday, June 2nd, and Headquarters and WFO personnel were on administrative leave. </p>
+<p>Electricity has been restored and we expect that the EEOC Headquarters and Washington Field Office will be open on Friday, June 3rd. Employees are to report for duty on Friday, June 3rd.<br/>
+</p></div>
+</div>

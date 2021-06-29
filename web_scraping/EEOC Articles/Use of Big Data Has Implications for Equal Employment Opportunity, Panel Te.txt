@@ -1,0 +1,49 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	10-13-16</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>Use of Big Data Has Implications for Equal Employment Opportunity, Panel Tells EEOC</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Public Commission Meeting Hears from Experts on Growing </em></strong><strong style="font-size: 12.16px;"><em>Use of Algorithms to Make Employment Decisions</em></strong></p>
+<p>WASHINGTON - Big Data-the use of algorithms, "data scraping" of the internet, and other means of evaluating tens of thousands of pieces of information about an individual-is already being used to make hiring and other employment decisions, and
+both its use and its scope are expected to grow exponentially in the future, a panel of industrial psychologists, attorneys and labor economists told the U.S. Equal Employment Opportunity Commission (EEOC) at a public meeting held at agency
+headquarters in Washington, D.C. today.</p>
+<p>"Big Data has the potential to drive innovations that reduce bias in employment decisions and help employers make better decisions in hiring, performance evaluations, and promotions," said Chair Jenny R. Yang. "At the same time, it is critical
+that these tools are designed to promote fairness and opportunity, so that reliance on these expanding sources of data does not create new barriers to opportunity."</p>
+<p>"It can be a challenge to determine whether, when, and how laws may apply in our increasingly technology-driven workplaces," said Commissioner Victoria A. Lipnic, who helped organize the meeting. "But I see this at the core of our
+responsibilities: Ensuring that our understanding of today's workplaces and our interpretation and administration of the law, are as current and fully-informed as possible. It's for that reason that holding meetings like today is so crucial to
+our work."</p>
+<p>As defined by Dr. Kathleen Lundquist, an organizational psychologist: "Big data, predictive analytics or talent analytics - all terms used to describe the harvesting of a wide range of empirical data for HR decision making - is the inevitable
+future of HR.  It presents a future that is both promising and scary."</p>
+<p>The basic premise of the use of this data, she told the Commission, is to develop a set of characteristics of high-performing incumbents, and, through the use of wide-ranging and potentially disparate data points, match candidates for the
+position with those desired profiles.  However, "algorithms may be trained to predict outcomes which are themselves the result of previous discrimination. The high-performing group may be non-diverse and hence the characteristics of that group
+may more reflect their demographics than the skills or abilities needed to perform the job. The algorithm is matching people characteristics, rather than job requirements," she said.</p>
+<p>"It's an exciting era because this capability is going to give a fair shot to millions of job applicants who wouldn't have been considered previously," said Dr. Michael Housman, a workforce scientist with a background in Applied Economics. He
+testified about the potential for Big Data to help non-traditional candidates, including individuals who have had long-term unemployment.</p>
+<p>Dr. Michal Kosinski, a professor of Organizational Behavior at Stanford Graduate School of Business, was also optimistic that Big Data can be used to improve equal employment opportunity. "If used properly, Big Data-coupled with modern
+computational techniques-can improve person-job fit, increase our ability to identify talent, raise equality in access to jobs and careers, and help overcome implicit and explicit prejudice in the workplace," he said.</p>
+<p>On the other hand, "absent careful safeguards, demographic, sensitive health or genetic information is at risk for being incorporated in the Big Data analytics technologies that employers are beginning to use. These challenge the spirit of
+antidiscrimination laws such as the Americans with Disabilities Act and the Genetic Information Non-Discrimination Act," testified Dr. Ifeoma Ajunwa, a Fellow at the Berkman Klein Center at Harvard University and Assistant Professor of Law at
+University of the District of Columbia School of Law.</p>
+<p>Marko J. Mrkonich, a Shareholder at Littler Mendelson P.C., has developed an expertise in the interplay of anti-discrimination law and the use of Big Data, and he confirmed that "new tools and methods that rely on concepts of Big Data are
+becoming part of the daily landscape in human resource departments." At the same time, he said, "employers continue to operate in a legal environment based on rules and regulations developed in an analog world with few guideposts that translate
+seamlessly into the world of Big Data."</p>
+<p>Dr. Eric M. Dunleavy, Director of the Personnel Selection and Litigation Support Services Group at DCI Consulting, spoke on behalf of the Society for Human Resource Management (SHRM).  Dunleavy observed, "The question of whether employers
+can leverage contemporary big data for employment decision-making has been answered in the affirmative. Whether employers should do so, and how to go about it in their particular situation, are separate questions."</p>
+<p>Dr. Kelly Trindel, Chief Analyst in EEOC's Office of Information, Research, and Planning, shared possible Big Data outcomes that would generate concern. "If the training phase for a big data algorithm happened to identify a greater pattern of
+absences for a group of people with disabilities, it might cluster the relevant people together to create a 'high absenteeism risk' profile. The profile need not be tagged as 'disability'-rather it might appear to be based on some group of
+financial, consumer, or social media behaviors." </p>
+<p>The Commission will hold open the October 13, 2016, Commission meeting record for 15 days, and invites audience members, as well as other members of the public, to submit written comments on any issues or matters discussed at the meeting. Public
+comments may be mailed to Commission Meeting, EEOC Executive Officer, 131 M Street, N.E., Washington, D.C. 20507, or emailed to: <a href="mailto:Commissionmeetingcomments@eeoc.gov">Commissionmeetingcomments@eeoc.gov</a>.</p>
+<p>The comments provided will be made available to members of the Commission and to Commission staff working on the matters discussed at the meeting. In addition, comments may be published on EEOC's public website, or disclosed in response to
+Freedom of Information Act requests and in the Commission's library. Providing comments in response to this solicitation equals consent to their use and consideration by the Commission and to their public availability. Accordingly, do not
+include any information in submitted comments that you would not want made public, like home address, telephone number, etc. Also note that when comments are submitted by e-mail, the sender's e-mail address automatically appears on the
+message. </p>
+<p>EEOC has posted biographies and statements of all panelists, and will post a video of the meeting within a few days, and a full transcript within a few weeks. These can all be found at <a href="https://www.eeoc.gov/eeoc/meetings/10-13-16/">https://www.eeoc.gov/eeoc/meetings/10-13-16/</a></p>
+<p>The EEOC is responsible for enforcing federal laws prohibiting employment discrimination. More information can be found at <a href="http://www.eeoc.gov">www.eeoc.gov</a>.</p></div>
+</div>

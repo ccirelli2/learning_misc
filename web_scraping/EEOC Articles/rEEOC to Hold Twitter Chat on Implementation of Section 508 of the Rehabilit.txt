@@ -1,0 +1,24 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	3-26-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC to Hold Twitter Chat on Implementation of Section 508 of the Rehabilitation Act</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>EEOC, DOL and OPM Encourage a Dialogue on Removing Barriers for Federal Workers</em></strong></p>
+<p>WASHINGTON -- The U.S. Equal Employment Opportunity Commission (EEOC) will hold a live Twitter chat on Thursday, April 2 from 1:00 to 2:00 pm (EDT).  This is an opportunity for stakeholders to discuss how technology impacts federal workers
+with disabilities.  </p>
+<p>Federal employees and members of the public are encouraged to participate by submitting questions and comments using the hashtag <strong>#5084FEDs</strong>. <strong> </strong> The EEOC invites queries and comments regarding the common
+technological issues people with disabilities experience in the federal workforce, as it relates to <a href="http://www.section508.gov/Section-508-Of-The-Rehabilitation-Act">Section 508 compliance</a>.</p>
+<p>EEOC Commissioner Chai Feldblum will use her personal Twitter handle @chaifeldblum to participate and representatives from the U.S. Department of Labor (DOL) and the Office of Personnel Management (OPM) will also join the conversation.
+  EEOC will conduct the chat using the Office of Federal Operations (OFO) official Twitter handle <strong><em>@EEOC_OFO</em></strong>.</p>
+<p>Carlton Hadden, director of EEOC's Office of Federal Operations, said, "Our Twitter chat will gather feedback from all stakeholders on 508 compliance in the federal sector. While we certainly want information about best practices, we also need
+information on any barriers to fostering greater accessibility."</p>
+<p>EEOC Chair Jenny Yang released a <a href="http://www.eeoc.gov/eeoc/events/508chat.cfm">video invitation</a>. </p>
+<p>Members of the news media should direct questions to the EEOC's Office of Communications via email: <a href="mailto:newsroom@eeoc.gov">newsroom@eeoc.gov</a> or by phone at 202-663-4191 or TTY 202-663-4494.</p>
+<p>The EEOC enforces federal laws prohibiting employment discrimination. Further information about the EEOC is available at <a href="http://www.eeoc.gov">www.eeoc.gov</a>.</p></div>
+</div>

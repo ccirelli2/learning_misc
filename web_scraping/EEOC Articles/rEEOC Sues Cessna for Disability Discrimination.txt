@@ -1,0 +1,26 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	9-30-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Sues Cessna for Disability Discrimination</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Aircraft Manufacturer Rescinded Job Offers Using Workers Compensation Guidelines Without Regard for the ADA, Federal Agency Charges</em></strong></p>
+<p>MILWAUKEE - Aircraft manufacturer Cessna Aircraft Company violated federal law by rescinding job offers to applicants -- who were medically qualified to perform the jobs -- because of generalized standards that were not relevant to the individual
+employee, the U.S. Equal Employment Opportunity Commission charged in a lawsuit filed yesterday. These standards included workers' compensation maximum medical improvement (MMI) standards, EEOC said.</p>
+<p>According to EEOC's lawsuit, Cessna rescinded job offers to William Cote, Clark Buehler and a class of similarly situated individuals at facilities throughout the country, including its Citation Service Center in Milwaukee, when it learned of
+their medical conditions. Cote, who was offered a position as a mechanical inspector, passed his post-offer medical examination, but advised Cessna that he was scheduled for outpatient surgery for carpal tunnel syndrome. Cessna took back his job
+offer on the basis of the workers' compensation estimate of average time for recovery from such surgery, despite his own physician's report that he was able to work without restrictions.</p>
+<p>Such alleged conduct violates the Americans with Disabilities Act (ADA), which prohibits discrimination based on disability. It also prohibits use of qualification standards, such as compliance with workers compensation standards, which tend to
+screen out persons with disabilities. The lawsuit, filed in the U.S. District Court for the Eastern District of Wisconsin (<em>Equal Employment Opportunity Commission v. Cessna Aircraft Co.</em>, Civil Action No. 2:15-cv-01166-LA), seeks damages for
+Cote and other conditional employees whose job offers were rescinded because of their disabilities, as well as injunctive relief. "Workers' compensation guidelines do not supersede the ADA," said EEOC Chicago District Regional Attorney John
+Hendrickson. "Employers are required to comply with both laws. With regard to the ADA, that means that employers must make individualized assessments of applicants and employees abilities to perform the essential functions of their jobs as soon as
+the employer becomes aware of impairments. An employer cannot wait to comply with the ADA until an employee is at maximum medical improvement."</p>
+<p>EEOC's Chicago District Office is responsible for processing discrimination charges, administrative enforcement and the conduct of agency litigation in Wisconsin, Minnesota, Illinois, Iowa, North Dakota and South Dakota, and operates Area Offices
+in Milwaukee and Minneapolis.</p>
+<p>EEOC is responsible for enforcing federal laws against employment discrimination. Further information is available at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

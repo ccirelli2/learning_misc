@@ -1,0 +1,30 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	11-1-17</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Launches Online Services for Inquiries, Appointments and Discrimination Charges</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>New EEOC Public Portal Allows Online Interactions with the Agency</em></strong></p>
+<p>WASHINGTON - Today the U.S. Equal Employment Opportunity Commission (EEOC) launched an EEOC Public Portal to provide online access to individuals inquiring about discrimination.</p>
+<p>"This secure online system makes the EEOC and an individual's charge information available wherever and whenever it is most convenient for that individual," said EEOC Acting Chair Victoria A. Lipnic. "It's a giant leap forward for the EEOC in
+providing online services."</p>
+<p>The <a href="https://publicportal.eeoc.gov/portal/">EEOC Public Portal</a> allows individuals to submit online initial inquiries and requests for intake interviews with the agency. Initial inquiries and intake interviews are typically the first
+steps for individuals seeking to <a href="https://www.eeoc.gov/employees/howtofile.cfm">file a charge</a> of discrimination with EEOC. In fiscal year 2017, the EEOC responded to over 550,000 calls to the toll-free number and more than 140,600
+inquiries in field offices, reflecting the significant public demand for EEOC's services. Handling this volume of contacts through an online system is more efficient for the public and the agency as it reduces the time and expense of paper
+submissions.</p>
+<p>The new system enables individuals to digitally sign and file a charge prepared by the EEOC for them. Once an individual files a charge, he or she can use the <a href="https://publicportal.eeoc.gov/portal/">EEOC Public Portal</a> to provide and
+update contact information, agree to mediate the charge, upload documents to his or her charge file, receive documents and messages related to the charge from the agency and check on the status of his or her charge. These features are available for
+newly filed charges and charges that were filed on or after Jan. 1, 2016 that are in investigation or mediation.</p>
+<p>Five EEOC offices (<a href="https://www.eeoc.gov/field/charlotte/index.cfm">Charlotte</a>, <a href="https://www.eeoc.gov/field/chicago/index.cfm">Chicago</a>, <a href="https://www.eeoc.gov/field/neworleans/index.cfm">New Orleans</a>, <a href="https://www.eeoc.gov/field/phoenix/index.cfm">Phoenix</a> and <a href="https://www.eeoc.gov/field/seattle/index.cfm">Seattle</a>) piloted the new system for six months. Feedback from the public and the EEOC pilot offices led to improvements in the
+system for this nationwide launch.</p>
+<p>The new system does not permit individuals to file charges of discrimination online that have not been prepared by the EEOC or to file complaints of discrimination against federal agencies.</p>
+<p>In the next few weeks, the EEOC will also provide online access to charging parties for whom the agency has an email address, who have pending charges that are currently in investigation or mediation and were filed as of Jan. 1, 2016.</p>
+<p>Individuals who do not have online access can call 1-800-669-4000 to get basic information about how to submit an inquiry to their local EEOC office.</p>
+<p>The EEOC advances opportunity in the workplace by enforcing federal laws prohibiting employ­ment discrimination. More information is available at <a href="http://www.eeoc.gov">www.eeoc.gov</a>.  Stay connected with the latest EEOC news by
+subscribing to our <a href="https://public.govdelivery.com/accounts/USEEOC/subscriber/new">email updates</a>.</p></div>
+</div>

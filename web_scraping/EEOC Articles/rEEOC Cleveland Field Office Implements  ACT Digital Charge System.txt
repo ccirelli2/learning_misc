@@ -1,0 +1,27 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	11-6-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Cleveland Field Office Implements  ACT Digital Charge System</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>New Intake System to Serve the Public More Efficiently</em></strong></p>
+<p>CLEVELAND - The Cleveland Field Office of the U.S. Equal Employment Opportunity Commission (EEOC) will implement a new digital charge system called ACT Digital on Nov. 9 to serve the public more efficiently and provide better customer service,
+the federal agency announced today.</p>
+<p>EEOC receives about 90,000 charges per year, making its charge system the agency's most common interaction with the public. EEOC's ACT Digital initiative seeks to improve customer service, ease the administrative burden on staff and reduce the
+use of paper submissions and files.</p>
+<p>The new system, whose full title is the Action Council for Transformation to a Digital Charge System, will transmit digital charge documents between EEOC and employers against whom a discrimination charge has been filed. This is the first step in
+EEOC's move toward a digital charge system that will streamline the submission of documents, notices and communications in EEOC's charge system which applies to private and public employers, unions and employment agencies.</p>
+<p>The first phase of ACT Digital allows an employer against whom a charge has been filed to communicate with EEOC through a secure portal to download the charge, review and respond to an invitation to mediate, submit a position statement, and
+provide and verify their contact information. The newly designed EEOC charge notice will provide a password-protected login for the employer in the pilot offices to access the system. Employers will also have the option of opting out of the pilot
+program and receiving and submitting all documents and communications in paper form.</p>
+<p>"I echo the statement of EEOC's Chair Jenny Yang when I say that ACT Digital is an innovative first step in streamlining EEOC's charge system," said EEOC Cleveland Field Office Director Cheryl Mabry-Thomas. "We realize that there will be a
+learning curve internally and extern­ally. However, we expect the digital system to bring great efficiencies for both employers, the EEOC, and ultimately for workers as well. We invite employers to provide us with feedback."</p>
+<p>EEOC has already implemented ACT Digital in all of the offices of EEOC's Charlotte District (Charlotte, Greensboro, Greenville, Norfolk, Raleigh and Richmond), the San Francisco District office, and offices in Denver, Detroit, Indianapolis and
+Phoenix. The agency expects this first phase of its digital charge system to be live in all offices by the end of the year.</p>
+<p>EEOC enforces federal laws prohibiting employment discrimination. Further information about the agency is available at its website, <a href="http://www.eeoc.gov">www.eeoc.gov</a> .</p></div>
+</div>

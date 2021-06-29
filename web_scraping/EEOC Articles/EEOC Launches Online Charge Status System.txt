@@ -1,0 +1,32 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	3-23-16</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Launches Online Charge Status System</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Agency Continues To Expand Digital Services</em></strong></p>
+<p>WASHINGTON - The U.S. Equal Employment Opportunity Commission (EEOC) announced the launch of key services that improve service to the public. EEOC's services now include: 1) providing individuals who have filed a charge of discrimination the
+ability to check the status of their charge online, and 2) providing a portal for businesses to receive and upload documents and communicate with EEOC.</p>
+<p>"We are pleased to announce the launch of online access to charge status information," said EEOC Chair Jenny R. Yang. "This service provides immediate benefits to the public by allowing access to charge information online and on demand. Moving
+forward, EEOC will continue to use technology to streamline the charge system and improve the way we serve the public."</p>
+<p>The new Online Charge Status System allows individuals who have filed charges of discrimination with EEOC to track the progress of their charge. The system provides up-to-date status on individual charges as well as an overview of the steps that
+charges follow from intake to resolution. Additionally, the system provides contact information for EEOC staff assigned to the charge.</p>
+<p>With the new system, charging parties can access information about their charge at their convenience, while allowing EEOC staff to focus on investigating charges. Companies or other entities that have charges of employment discrimination filed
+against them also can access the system and receive the same information on the status of the charge.</p>
+<p>The Online Charge Status System is available for charges filed on or after September 2, 2015. It is not available for charges filed prior to this date or for charges filed with EEOC's state and local Fair Employment Practices Agencies. The system
+can be accessed at <a href="http://www.eeoc.gov/employees/charge_status.cfm">http://www.eeoc.gov/employees/charge_status.cfm</a> or by selecting the "Check the Status of a Charge" button on <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p>
+<p>Additionally, all EEOC offices now use a Digital Charge System, in which employers transmit and receive documents regarding discrimination charges through a secure online portal. <a href="http://www.eeoc.gov/eeoc/newsroom/release/5-6-15.cfm" id="http://www.eeoc.gov/eeoc/newsroom/release/5-6-15.cfm|">Originally piloted last summer</a>, the Digital Charge System provides for faster transmittal of documents, as well as notifications to the employer and EEOC staff to improve communication with
+EEOC.</p>
+<p>EEOC receives over 150,000 inquiries from individuals with questions about workplace discrimination and approximately 90,000 charges per year, making its charge system the agency's most common interaction with the public. EEOC's Digital Charge
+System aims to improve service to the public, ease the administrative burden on staff, and reduce the use of paper submissions and files. Private and public employers, unions and employment agencies will use the Digital Charge System, instead of
+transmitting paper documents.</p>
+<p>For federal sector complaints of discrimination, EEOC launched an online system called the Federal Sector EEO Portal (FedSEP) for federal agencies on October 1, 2015 to upload hearing and appeals documents.</p>
+<p>EEOC will offer assistance through its toll-free number at 1-800-669-4000 (TTY: 1-800-669-6820 or ASL Video Phone 1-844-234-5122) for those who do not have Internet access to retrieve the information provided in the Online Charge Status System or
+who need language assistance in one of the 150 languages for which we offer translations services.</p>
+<p>EEOC enforces federal laws prohibiting discrimination in employment. More information is available at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p></div>
+</div>

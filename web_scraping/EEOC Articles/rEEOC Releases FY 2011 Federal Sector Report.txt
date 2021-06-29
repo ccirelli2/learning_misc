@@ -1,0 +1,21 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	8-20-12</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Releases FY 2011 Federal Sector Report</h1>
+</div>
+<div align="left"><p align="center"><em><strong>Processing Time Down for Federal Discrimination Complaints, Agency Shows</strong></em></p>
+<p>WASHINGTON – Federal employees and applicants filed 16,974 complaints of employment discrimination in fiscal year 2011, according to the U.S. Equal Employment Opportunity Commission’s (EEOC) “Annual Report on the Federal Work Force Part I:  EEO Complaints Processing for Fiscal Year 2011.”  The report issued today assesses federal agencies’ equal employment opportunity complaint processing program statistics.  The full text of the report is available on the EEOC’s web site at: <a href="https://www.eeoc.gov/federal/reports/fsp2011/index.cfm" id="CP___PAGEID=161226,index.cfm,166|">http://www.eeoc.gov/federal/reports/fsp2011/index.cfm</a>. </p>
+<p>Unlike in the private sector, where the EEOC is responsible for investigating charges of discrimination but has no adjudicative authority, the federal sector equal employment opportunity (EEO) complaint process calls for federal agencies to investigate EEO complaints themselves and, in most cases, issue final determinations on the merits of the complaint.  However, federal sector EEO complainants have a right to request a hearing before an EEOC administrative judge. Also, they may appeal the federal agency’s final decision on the complaint to the EEOC’s Office of Federal Operations (OFO).</p>
+<p>Federal agencies reduced the average number of days to process EEO complaints by 14 days (346.38 days for FY 2011 and 360.28  for FY 2010.)   Federal agencies also reduced the average number of days to process EEO complaints on the merits by 51 days (429.89 days for FY 2011 and 480.99 for FY 2010).  At the same time, agencies increased the number of timely issued decisions on the merits of the complaints by 5 percent (56.53% for FY 2011 from 51.54% for FY 2010).  However, there was a 4 percent increase in federal sector complainants requesting a hearing before an EEOC administrative judge (47.8% in FY 2011 from 43.8% in FY 2010).  The percentage of federal sector EEO complainants who filed an appeal with the EEOC’s OFO increased by slightly more than 3 percent. (29.69% in FY 2011 from 26.54% in FY 2010).</p>
+<p>Retaliation was the most frequently alleged basis of discrimination in complaints filed (7,553) in fiscal year 2011.  Age discrimination was the second most frequent basis of discrimination alleged (5,105).  Harassment (non-sexual) was the most frequently alleged issue (5,863 in the 16,974 filed complaints).</p>
+<p>“This report has some encouraging news, particularly looking at how federal agencies have reduced the time for processing EEO complaints,” said Carlton M. Hadden, the director of OFO.  “While federal agencies must remain focused on ensuring timely processing of EEO complaints, they also must make real their obligation to make their workplaces genuine models of EEO employment.”  </p>
+<p>Part II of the Annual Report on the Federal Work Force for FY 2011, which reports work force data, including trends in work force composition, will be published later this year.</p>
+<p>The EEOC is responsible for enforcing federal laws against employment discrimination.  Further information is available at www.eeoc.gov.<br/>
+</p></div>
+</div>

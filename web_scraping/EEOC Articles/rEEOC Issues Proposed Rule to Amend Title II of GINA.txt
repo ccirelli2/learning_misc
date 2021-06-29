@@ -1,0 +1,38 @@
+<div class="cs_control" id="cs_control_4119">
+<div align="left">
+<p><em><strong>PRESS RELEASE</strong></em><br/>
+	10-29-15</p>
+</div>
+<div align="center">
+<div class="caption">
+<p></p>
+</div>
+<h1>EEOC Issues Proposed Rule to Amend Title II of GINA</h1>
+</div>
+<div align="left"><p style="text-align: center;"><strong><em>Rule Clarifies Incentives That Can Be Provided For Health Information of a Spouse Participating In an Employer-Sponsored Wellness Program</em></strong></p>
+<p>WASHINGTON - On Friday, October 30, 2015, the U.S. Equal Employment Opportunity Commission (EEOC) issued a <a href="https://www.federalregister.gov/articles/2015/10/30/2015-27734/genetic-information-nondiscrimination-act-of-2008" id="https://www.federalregister.gov/articles/2015/10/30/2015-27734/genetic-information-nondiscrimination-act-of-2008|">Notice of Proposed Rulemaking</a> (NPRM) to amend the regulations implementing Title II of the Genetic Information Nondiscrimination
+Act (GINA) as they relate to employer wellness programs that are part of group health plans. The proposed rule would allow employers who offer wellness programs as part of group health plans to provide limited financial and other inducements (also
+called incentives) in exchange for an employee's spouse providing information about his or her current or past health status. EEOC will accept comments on the proposed rule through Tuesday, December 29, 2015.</p>
+<p>Title II of GINA protects job applicants, current and former employees, labor union members and apprentices, and trainees from employment discrimination based on their genetic information. It prohibits employers covered by the law from using
+genetic information in making decisions about employment. It also restricts employers from requesting, requiring, or purchasing genetic information, unless one or more of six narrow exceptions applies.</p>
+<p>One of those narrow exceptions to GINA's prohibitions applies when an employee voluntarily accepts health or genetic services offered by an employer, including such services offered as part of a wellness program. The statute and EEOC's GINA
+regulations say that "genetic information" includes, among other things, information about the "manifestation of a disease or disorder in family members of an individual." The term "family members" includes spouses.</p>
+<p>EEOC's proposed rule addresses the extent to which an employer may offer incentives for an employee's spouse to provide information about his or her current or past health status as part of an employer-sponsored wellness program, when he or she
+participates in the employer's health plan. The proposed rule clarifies that an employer may offer, as a part of its health plan, a limited incentive to an employee whose spouse is covered under the employee's health plan; receives health or genetic
+services offered by the employer, including as part of a wellness program; and provides information about his or her current or past health status. The limited incentive may take the form of a reward or penalty and may be financial or in-kind (e.g.,
+time-off awards, prizes, or other items of value).</p>
+<p>The total incentive for an employee and spouse to participate in a wellness program that is part of a group health plan and collects information about current or past health status may not exceed 30 percent of the total cost of the plan in which
+the employee and any dependents are enrolled. The proposed rule also says that the maximum portion of an incentive that may be offered to an employee <em>alone</em> may not exceed 30 percent of the total cost of self-only coverage.</p>
+<p>On April 20, 2015, EEOC published an NPRM for public comment in the <em>Federal Register</em>, describing when a wellness program that seeks medical information from an employee is considered voluntary under the Americans with Disabilities Act
+(ADA). The proposed ADA rule set a limit on the level of incentives that may be offered in exchange for an employee's medical information. The incentive levels in this proposed GINA rule are consistent with those in the proposed ADA rule and with
+regulations under the Health Insurance Portability and Accountability Act (HIPAA), as amended by the Affordable Care Act, and the provisions of Title I of GINA governing health insurance.</p>
+<p>EEOC believes that the approach adopted in this rule harmonizes the two titles of GINA, which both regulate employer wellness programs that are part of group health plans, as a coherent whole. At the same time, EEOC is mindful that this change
+creates an exception to the general rule that no incentives may be provided for an employee's genetic information. Therefore, the agency has interpreted the exception as narrowly as possible. For example, the exception applies to information on the
+current and past health status of spouses, but not of children. The possibility that an employee may be discriminated against based on genetic information is greater when the employer has access to information about the health status of the
+employee's children versus the employee's spouse.</p>
+<p>"Our goal in developing this proposed rule is to provide clarity for employees and employers," said EEOC Chair Jenny R. Yang. "We spent considerable time working with our partners at the U.S. Departments of Labor, Health and Human Services, and
+Treasury to construct a rule that protects workers and their families while encouraging wellness programs that benefit employers and employees alike."</p>
+<p>The period to comment on the proposed rule lasts 60 days. After that time, EEOC will evaluate the comments and make revisions to the proposed rule, as necessary. Then the Commission will vote on a final rule.</p>
+<p>EEOC has posted a list of <a href="https://www.eeoc.gov/laws/regulations/qanda-gina-wellness.cfm" id="CP___PAGEID=202816,qanda-gina-wellness.cfm,44|">questions and answers about the proposed rule</a> and <a href="https://www.eeoc.gov/laws/regulations/fact-sheet-gina-wellness.cfm" id="CP___PAGEID=202827,fact-sheet-gina-wellness.cfm,44|">fact sheet about how it would affect small businesses</a> on its website on Oct. 30, 2015 at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a>.</p>
+<p><em>EEOC enforces federal laws prohibiting employment discrimination. Further information about the EEOC is available on its web site at <a href="http://www.eeoc.gov" id="http://www.eeoc.gov|">www.eeoc.gov</a></em>.</p></div>
+</div>
