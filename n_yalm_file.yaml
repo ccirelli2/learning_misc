@@ -1,0 +1,6 @@
+- CA:
+    model_id: 2345
+    model_name: CA-Model
+  NY:
+    model_id: 1234
+    model_name: NY-Model
